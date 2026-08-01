@@ -123,17 +123,23 @@ For every course, create a dedicated folder structured as follows:
 
 ```text
 /Course_Name (e.g., OLS 500 Data Driven)
-├── sources.txt                 <-- Central master stash of all citations, URLs, & video .srt scripts
-├── mod 1/                      <-- Milestone 1 folder
+├── sources.txt                 <-- Central master stash of all citations & APA 7 references
+├── mod 1/                      <-- Module 1 folder
 │   ├── mod1.txt                <-- Local plain-text copy of assignment prompt & rubric
+│   ├── course materials/       <-- PDFs, readings, articles, & textbook chapters for Mod 1
+│   ├── srts/                   <-- Downloaded .srt video subtitle files for Mod 1
 │   ├── Milestone_1.txt         <-- Working draft file for Milestone 1
 │   └── Milestone_1.docx        <-- Final formatted submission file
-├── mod 2/                      <-- Milestone 2 folder
+├── mod 2/                      <-- Module 2 folder
 │   ├── mod2.txt                <-- Local plain-text copy of assignment prompt & rubric
+│   ├── course materials/       <-- PDFs, readings, articles, & textbook chapters for Mod 2
+│   ├── srts/                   <-- Downloaded .srt video subtitle files for Mod 2
 │   ├── Milestone_2.txt         <-- Working draft file for Milestone 2
 │   └── Milestone_2.docx        <-- Final formatted submission file
-├── mod 3/                      <-- Milestone 3 folder
+├── mod 3/                      <-- Module 3 folder
 │   ├── mod3.txt                <-- Local plain-text copy of assignment prompt & rubric
+│   ├── course materials/       <-- PDFs, readings, articles, & textbook chapters for Mod 3
+│   ├── srts/                   <-- Downloaded .srt video subtitle files for Mod 3
 │   ├── Milestone_3.txt         <-- Working draft file for Milestone 3
 │   └── Milestone_3.docx        <-- Final formatted submission file
 └── final/                      <-- Final Assessment folder
@@ -145,6 +151,11 @@ For every course, create a dedicated folder structured as follows:
 Before typing a single word of a draft, copy the exact assignment prompt and rubric criteria from your Brightspace/D2L portal directly into a local plain-text file (`mod1.txt`, `mod2.txt`).
 
 * **Why it matters**: You never have to switch tabs, log back into the LMS, or hunt for rubric guidelines while writing. Your prompt criteria sit right next to your draft.
+
+### Sub-Folder Organization: `course materials/` & `srts/`
+Inside each module folder, maintain two dedicated sub-folders:
+* **`course materials/`**: Holds all downloaded course PDFs, articles, reading assignments, and textbook chapters for that module.
+* **`srts/`**: Holds all downloaded `.srt` video subtitle transcript files for that module's video lectures.
 
 ### Plain-Text First Drafting (`.txt` to `.docx`)
 Write all working drafts in simple plain-text (`.txt`) before exporting to Microsoft Word (`.docx`) for final submission.
@@ -168,9 +179,10 @@ Before writing a single sentence, open the **Syllabus / Welcome tab** in your Br
 Maximize learning and eliminate note-taking during lectures.
 
 * **Watch Assigned Videos for Deep Context**: Video lectures and talks provide far richer context and better conceptual understanding than dry textbook readings alone. Watch them to absorb the core ideas.
-* **Download Video Subtitles (`.srt`)**: Use free transcript tools (e.g., DownSub) to download the `.srt` subtitle files for every course video.
-* **Zero Note-Taking While Watching**: Do not pause videos to write manual notes. Sit back and focus entirely on watching and understanding the material. The `.srt` files serve as your complete, word-for-word transcript, allowing you to search for exact quotes, timestamps, and key terms later when drafting your assignments.
-* **Centralize Course Sources**: Copy all required readings, legal statutes, textbook chapters, and video `.srt` transcripts into your `sources.txt` file for quick reference.
+* **Download Video Subtitles (`.srt`) into `mod X/srts/`**: Use free transcript tools (e.g., DownSub) to download the `.srt` subtitle files for every course video directly into that module's `srts/` folder.
+* **Save Readings into `mod X/course materials/`**: Save all PDF articles, chapters, and required readings into the module's `course materials/` folder.
+* **Zero Note-Taking While Watching**: Do not pause videos to write manual notes. Sit back and focus entirely on watching and understanding the material. The `.srt` files in your `srts/` folder serve as your complete, word-for-word transcript, allowing you to search for exact quotes, timestamps, and key terms later when drafting your assignments.
+* **Centralize Citations in `sources.txt`**: Use `sources.txt` at the root of the course folder strictly to stash master APA 7 bibliographic citations for all readings and videos.
 
 ---
 
@@ -186,10 +198,10 @@ Academic essays backed only by textbook summaries sound generic. Ground your wor
 ### Step 4: The 8-Source Reference Selection System
 Instead of randomly picking references, follow this exact **8-Source Formula** for every major essay to guarantee full rubric coverage and complete citation support:
 
-* **Source 1 (Primary Anchor Reading)**: Select the main textbook or course reading used most heavily throughout the module's core materials.
+* **Source 1 (Primary Anchor Reading)**: Select the main textbook or course reading used most heavily throughout the module's core materials (`mod X/course materials/`).
 * **Source 2 (Core Conceptual Support)**: Select the reading or article that directly supports the majority of your essay's specific arguments and operational scenarios.
 * **Sources 3–6 (Targeted Gap Fillers & Framework Support)**: Select 4 additional course readings or empirical journal articles specifically chosen to fill in remaining rubric requirements, support secondary arguments, or provide stronger statistical proof.
-* **Sources 7–8 (Assigned Video Transcripts)**: Select the 2 best YouTube videos/talks from the assigned course videos that you found most interesting and that provide direct quotes/insights to strengthen your essay.
+* **Sources 7–8 (Assigned Video Transcripts)**: Select the 2 best YouTube videos/talks from your `mod X/srts/` folder that you found most interesting and that provide direct quotes/insights to strengthen your essay.
 
 * **Why it works**: Having exactly 8 targeted sources guarantees every single concept in your essay is cited, satisfies professor expectations for academic depth, and prevents last-minute scrambling for references.
 
