@@ -183,14 +183,15 @@ Academic essays backed only by textbook summaries sound generic. Ground your wor
 
 ---
 
-### Step 4: Source Selection & Mapping
-Connect your raw operational story to academic frameworks.
+### Step 4: The 8-Source Reference Selection System
+Instead of randomly picking references, follow this exact **8-Source Formula** for every major essay to guarantee full rubric coverage and complete citation support:
 
-* **Filter Your `sources.txt`**: Select exact Primary, Secondary, and Tertiary sources from your central list to support your topic:
-  * **Primary**: Government regulations, legal statutes, original data sets, or direct policy manuals.
-  * **Secondary**: Peer-reviewed journal articles and empirical meta-analyses.
-  * **Tertiary**: Textbooks, research methodology manuals, and standards checklists.
-* **Map Sources to Rubric Questions**: Ensure each chosen source answers a specific prompt or research question required by the assignment rubric.
+* **Source 1 (Primary Anchor Reading)**: Select the main textbook or course reading used most heavily throughout the module's core materials.
+* **Source 2 (Core Conceptual Support)**: Select the reading or article that directly supports the majority of your essay's specific arguments and operational scenarios.
+* **Sources 3–6 (Targeted Gap Fillers & Framework Support)**: Select 4 additional course readings or empirical journal articles specifically chosen to fill in remaining rubric requirements, support secondary arguments, or provide stronger statistical proof.
+* **Sources 7–8 (Assigned Video Transcripts)**: Select the 2 best YouTube videos/talks from the assigned course videos that you found most interesting and that provide direct quotes/insights to strengthen your essay.
+
+* **Why it works**: Having exactly 8 targeted sources guarantees every single concept in your essay is cited, satisfies professor expectations for academic depth, and prevents last-minute scrambling for references.
 
 ---
 
