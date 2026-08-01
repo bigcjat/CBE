@@ -13,7 +13,7 @@ This guide outlines a proven, end-to-end framework for planning, researching, wr
 Hi! My name is **Christopher Thompson** (known on Discord and Reddit as **`Bigcjat`**).
 
 ### My Journey Through UMPI YourPace
-I initially set out to earn a Bachelor of Liberal Studies (BLS) through UMPI YourPace simply to satisfy a visa requirement. Shortly after starting, a classmate challenged me to tackle the full **Bachelor of Business Administration (BBA)** instead. At first, I obsessed over the idea that it was impossible—it required 19 university courses instead of 10. 
+I initially set out to earn a Bachelor of Liberal Studies (BLS) through UMPI YourPace simply to satisfy a visa requirement. Shortly after starting, a classmate challenged me to tackle the full **Bachelor of Business Administration (BBA)** instead. At first, I obsessed over the idea that it was impossible—it required 19 UMPI courses instead of 10, and an additional course on study.com. 
 
 However, as I built and refined the systematic execution method detailed in this guide, I found that not only was it possible, but I finished the entire BBA with time left over in the term and several multi-day breaks along the way. 
 
