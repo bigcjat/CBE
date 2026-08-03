@@ -13,7 +13,7 @@ This guide outlines a proven, end-to-end framework for planning, researching, wr
 Hi! My name is **Christopher Thompson** (known on Discord and Reddit as **`Bigcjat`**).
 
 ### My Journey Through UMPI YourPace
-I initially set out to earn a Bachelor of Liberal Studies (BLS) through UMPI YourPace simply to satisfy a visa requirement. Shortly after starting, a classmate challenged me to tackle the full **Bachelor of Business Administration (BBA)** instead. At first, I obsessed over the idea that it was impossible—it required 19 UMPI courses instead of 10, and an additional course on study.com. 
+I initially set out to earn a Bachelor of Liberal Studies (BLS) through UMPI YourPace simply to satisfy a visa requirement. Shortly after starting, a classmate challenged me to tackle the full **Bachelor of Business Administration (BBA)** instead. At first, I obsessed over the idea that it was impossible—it required 19 university courses instead of 10. 
 
 However, as I built and refined the systematic execution method detailed in this guide, I found that not only was it possible, but I finished the entire BBA with time left over in the term and several multi-day breaks along the way. 
 
@@ -262,6 +262,15 @@ When creating presentation slides for milestone assignments, generate custom vis
   * **Zero floating extra icons**, zero background clutter, zero random lightbulbs/gears.
   * **No text, words, lettering, or numbers** embedded in the image.
 * **Integration**: Insert the clean clipart into your PowerPoint/Keynote slides and embed your presentation script word-for-word into the **Speaker Notes** section of each slide.
+
+---
+
+### 4. Cameo Video Recording & Presentation Confidence
+For courses that require a video presentation (Cameo recordings), keep these critical strategies in mind:
+
+* **Research Professor Audience Requirements**: While there is no way around recording Cameo videos, some professors strictly require a live audience in the video while others are flexible. Because students have valid personal reasons for why they cannot record with an audience, it is essential to research professor reviews in the student Discord (`#professor-reviews`) to find instructors who accommodate individual needs.
+* **Camera Confidence & Grading Reality**: If you feel nervous recording yourself, remember that **only your professor will see your video**. Wear something nice, speak clearly, and realize that for the vast majority of courses, you are being evaluated on content mastery—not public speaking skills.
+* **The Hand-Anchor Hack (Bluetooth Mic)**: The single best practical tip for recording is to pick up a **DJI Bluetooth microphone** (or similar wireless mic). The main benefit isn't just audio quality—it's giving your hands a physical job to do. Hold the microphone body in one hand while using your other hand to scroll through your speaker notes. Giving your hands a physical task eliminates awkward fidgeting, grounds your body, and noticeably boosts your confidence and focus while recording.
 
 ---
 
