@@ -28,6 +28,12 @@ I am currently pursuing my **Master of Arts in Organizational Leadership (MAOL)*
 
 ## Part 1: Degree Planning & Transfer Credit Optimization
 
+> [!IMPORTANT]
+> **Scope Disclaimer: This is NOT a Transfer Credit Guide**  
+> This guide is strictly focused on the **UMPI YourPace course execution workflow**. It assumes you have already maximized all possible third-party transfer credits (Sophia, Study.com, StraighterLine, Coursera) prior to starting your residency at UMPI.  
+> 
+> **Do NOT Trust Google, ChatGPT, or AI for Degree Planning**: Transfer equivalencies, General Education Curriculum (GEC) rules, and course residency requirements change frequently. Relying on outdated blog posts, random Google searches, or AI chatbots to build your degree plan will leave you with missing prerequisites, unfulfilled requirements, and unexpected gaps in your plan.
+
 Before starting your UMPI YourPace term, maximize your transfer credits to minimize cost and time spent in residency. 
 
 ### Leveraging Free Resources: Plotted Path
