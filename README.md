@@ -157,9 +157,17 @@ Inside each module folder, maintain two dedicated sub-folders:
 * **`course materials/`**: Holds all downloaded course PDFs, articles, reading assignments, and textbook chapters for that module.
 * **`srts/`**: Holds all downloaded `.srt` video subtitle transcript files for that module's video lectures.
 
-### Plain-Text First Drafting (`.txt` to `.docx`)
-Write all working drafts in simple plain-text (`.txt`) before exporting to Microsoft Word (`.docx`) for final submission.
-* **Why it matters**: Drafting in plain text forces you to focus 100% on logical arguments, thesis development, and source citations without getting distracted by Word line spacing, font dropdowns, or tab stops until final formatting.
+### Mandatory APA 7 Standard (Stop Wasting Time Asking)
+* **Every Single Document is APA 7**: A common point of confusion among new UMPI students on Discord and Reddit is asking whether a specific milestone or final assignment requires APA 7 formatting. **Yes, it does — every single document submitted at UMPI YourPace requires APA 7 formatting.** Stop wasting time asking; simply treat APA 7 as the non-negotiable default for every paper, essay, and milestone across all courses.
+* **Gold-Standard APA 7 Reference**: Reference the official **[Purdue OWL APA 7 Formatting & Style Guide](https://owl.purdue.edu/owl/research_and_citation/apa_style/apa_formatting_and_style_guide/apa_sample_paper.html)** for sample papers, title page setups, in-text citations, and reference list formatting.
+
+### Plain-Text First Drafting Strategy (`.txt` to `.docx`)
+Some students prefer building pre-formatted Microsoft Word templates (`12 pt Times New Roman, double-spaced`) upfront. Personally, I hate writing inside double-spaced 12 pt Times New Roman from scratch—it slows down my train of thought.
+
+* **Draft in Plain Text First**: Write all working drafts in simple plain-text (`.txt`). Drafting in plain text forces you to focus 100% on argument flow, thesis depth, and source citations without getting distracted by Word line spacing, font dropdowns, or margins.
+* **The Rapid Polishing Pass**: Once the draft is complete, copy the plain text into Microsoft Word and format it into APA 7 right before submitting. With practice, you get significantly faster—you can take an unformatted plain-text draft and turn it into a polished APA 7 document in just a few minutes. 
+* **The Hidden Benefit**: This final formatting pass forces you to read through your entire paper line-by-line one more time, catching typos, passive voice, and weak transitions right before submission.
+* **Do Whatever Works for You**: Whether you prefer starting from a Word template or using the plain-text-first method, choose whatever is easiest for you—just remember to stick strictly to APA 7 for every single document!
 
 ---
 
