@@ -50,10 +50,12 @@ One of the single most effective strategies in UMPI YourPace is spending **10 mi
 
 While core assignment prompts and rubrics remain identical regardless of who teaches the class, instructor grading turnaround speed, feedback depth, and evaluation style vary significantly. Selecting an instructor who aligns with your pace and communication style can save days of waiting time per course.
 
-### 1. Leverage Community Reviews (Discord Channels)
-Before requesting a new course section, check the UMPI YourPace student community channels:
-* **`#professor-reviews`**: Read feedback on grading turnaround times (e.g., 24-hour graders vs. multi-day turnaround), accommodating communication, and grading fairness.
-* **`#class-reviews`**: Review overall course difficulty, number of milestone activities, and specific instructor recommendations for that exact class.
+### 1. Leverage Community Reviews (Discord & Reddit)
+Before requesting a new course section, check the student community channels:
+* **[UMPI Student Discord Community](https://discord.gg/P6HnsZ8CdQ)**: Join the active student Discord to access dedicated review channels:
+  * **`#professor-reviews`**: Read feedback on grading turnaround times (e.g., 24-hour graders vs. multi-day turnaround), accommodating communication, and grading fairness.
+  * **`#class-reviews`**: Review overall course difficulty, number of milestone activities, and specific instructor recommendations for that exact class.
+* **[r/UMPI Subreddit](https://www.reddit.com/r/UMPI/)**: Search the official student subreddit for course completion reports, transfer strategies, instructor insights, and degree planning advice.
 
 ### 2. How to Lookup Available Instructors (MaineStreet Class Search)
 Follow these exact steps to see which professors are teaching upcoming UMPI YourPace course sections:
