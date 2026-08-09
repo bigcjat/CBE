@@ -4,7 +4,7 @@
 ---
 
 ## Overview
-This guide outlines a proven, end-to-end framework for planning, researching, writing, and submitting coursework in the **UMPI YourPace** Competency-Based Education program. It is designed to maximize efficiency, maintain high academic rigor, leverage real-world experience, and streamline progression from Milestone 1 to the Final Assessment.
+This guide outlines a proven, end-to-end framework for planning, researching, writing, and submitting coursework in the **UMPI YourPace** Competency-Based Education (CBE) program. It is designed to maximize efficiency, maintain high academic rigor, leverage real-world experience, and streamline progression from Milestone 1 to the Final Assessment.
 
 ---
 
@@ -22,7 +22,7 @@ I am currently pursuing my **Master of Arts in Organizational Leadership (MAOL)*
 ### Professional & Background Context
 * **Oil & Gas Operations**: 20 years in the oil and gas industry, including 11 years as an operational field foreman for a producer on the British Columbia / Northwest Territories border in Canada.
 * **Software Engineering & Tech**: Developer in JavaScript, Python, and PHP for ~25 years. I first went to college in 2001 for a Network Diploma specializing in Windows 2000 and worked briefly at Yahoo!.
-* **Location & Lifestyle**: I currently live in Asia, traveling between Tokyo, Singapore, Hanoi, Taiwan, and next South Korea. I have visited Japan 13 times so far and plan to settle there permanently in the future.
+* **Location & Lifestyle**: I currently live in Asia, traveling between Tokyo, Singapore, Hanoi, Taiwan, and South Korea. I have visited Japan 13 times so far and plan to settle there permanently.
 
 ---
 
@@ -51,13 +51,18 @@ One of the single most effective strategies in UMPI YourPace is spending **10 mi
 While core assignment prompts and rubrics remain identical regardless of who teaches the class, instructor grading turnaround speed, feedback depth, and evaluation style vary significantly. Selecting an instructor who aligns with your pace and communication style can save days of waiting time per course.
 
 ### 1. Leverage Community Reviews (Discord & Reddit)
-Before requesting a new course section, check the student community channels:
-* **[UMPI Student Discord Community](https://discord.gg/P6HnsZ8CdQ)**: Join the active student Discord to access dedicated review channels:
-  * **`#professor-reviews`**: Read feedback on grading turnaround times (e.g., 24-hour graders vs. multi-day turnaround), accommodating communication, and grading fairness.
-  * **`#class-reviews`**: Review overall course difficulty, number of milestone activities, and specific instructor recommendations for that exact class.
-* **[r/UMPI Subreddit](https://www.reddit.com/r/UMPI/)**: Search the official student subreddit for course completion reports, transfer strategies, instructor insights, and degree planning advice.
+
+> [!TIP]
+> **Instructor Selection Hack**: Content is standardized across all sections, but securing an instructor who grades efficiently keeps your momentum going without administrative bottlenecks. Before requesting a section, check student feedback:
+> * **[UMPI Student Discord Community](https://discord.gg/P6HnsZ8CdQ)**: Access dedicated review channels:
+>   * **`#professor-reviews`**: Read feedback on grading turnaround times (e.g., 24-hour graders vs. multi-day turnaround), accommodating communication, and grading fairness.
+>   * **`#class-reviews`**: Review overall course difficulty, number of milestone activities, and specific instructor recommendations for that exact class.
+> * **[r/UMPI Subreddit](https://www.reddit.com/r/UMPI/)**: Search the official student subreddit for course completion reports, transfer strategies, instructor insights, and degree planning advice.
+
+---
 
 ### 2. How to Lookup Available Instructors (MaineStreet Class Search)
+
 Follow these exact steps to see which professors are teaching upcoming UMPI YourPace course sections:
 
 1. Log into **`mycampus.maine.edu`**.
@@ -70,9 +75,8 @@ Follow these exact steps to see which professors are teaching upcoming UMPI Your
 8. Set **Session** to *OnlineMaine Session 01* (YourPace Session 1) or *OnlineMaine Session 02* (YourPace Session 2).
 9. Click **Search**. Scroll through the alphabetized course list to inspect active sections and view the assigned instructor for each section.
 
-### 3. Requesting Your Preferred Instructor
-* **Email Your Request**: When emailing advising (`yourpace@maine.edu`) to add your next competency, explicitly request your preferred professor by name.
-* **Why it matters**: Content is standardized across all sections, but securing an instructor who grades efficiently keeps your momentum going without administrative bottlenecks.
+> [!NOTE]
+> **Requesting Your Preferred Instructor**: When emailing advising (`yourpace@maine.edu`) to add your next competency, explicitly request your preferred professor by name.
 
 ---
 
@@ -80,54 +84,35 @@ Follow these exact steps to see which professors are teaching upcoming UMPI Your
 
 While local folders handle individual course files, a **Macro Pacing Spreadsheet** gives you total visibility over your entire UMPI YourPace degree plan, term deadlines, and milestone progress.
 
-Instead of guessing where you stand in a course or term, maintain a centralized master spreadsheet. Below are the **essential minimum tracking fields** every UMPI YourPace student should maintain, along with the specific rationale for *why* each is critical.
-
 ```mermaid
 graph LR
     Sub1["Course & Milestone Log"] --> Sub2["Pacing Metrics Dashboard"]
     Sub2 --> Sub3["Term Deadline & Pace Control"]
 ```
 
-### Essential Minimum Fields to Track & Rationale
+Below is the **essential minimum tracking schema** every UMPI YourPace student should maintain:
 
-#### 1. Course Identifiers (Course Code, Name, & Platform)
-* **What to Track**: Course Code (e.g., `BUS 353`), Course Title, Credit Hours, and Platform (YourPace, Sophia, Study.com).
-* **Why**: Self-paced degrees involve multiple overlapping course codes across major, minor, and general education requirements. Clear identification prevents confusion between similar courses (e.g., `BUS 240` vs. `BUS 245` vs. `BUS 415`) and tracks transfer credit sources.
+### Master Pacing Spreadsheet Schema
 
-#### 2. Granular Status & Color Coding
-* **What to Track**: Current status for every course (*Started, Draft Sent, Final Sent, Complete, Transferred, Planned*).
-* **Why**: UMPI YourPace allows you to have multiple active courses or submissions pending simultaneously. Color-coded status fields give an instant, high-level visual check of what is currently on your plate versus what is waiting on instructor review.
-
-#### 3. Individual Milestone Progress Columns (M1 through M5 & Final)
-* **What to Track**: Separate columns for every milestone in the course (**M1, M2, M3, M4, M5, Final Draft, Final Assessment**) recording exact score values (e.g., `4/4`, `3.5/4`, `Submitted`).
-* **Why**: In traditional courses, a class is just "in progress." In UMPI YourPace, a course is an assembly line of 4–6 discrete deliverables. Tracking every milestone tells you the exact bottleneck in any course so you know whether you are waiting on Milestone 2 or ready to write the Final Assessment.
-
-#### 4. Submission Timers (Date/Time Submitted & Elapsed Time)
-* **What to Track**: Exact timestamp of when an assignment was submitted (e.g., `Aug 1, 15:08`) and a calculated timer (*Time Since Submission*).
-* **Why**: Instructors have varying turnaround times (typically 24 to 72 hours). Tracking elapsed time tells you exactly when to expect feedback and alerts you when a submission has exceeded standard grading windows so you know when to follow up.
-
-#### 5. Term Clock Metrics (Elapsed Days vs. Days Remaining)
-* **What to Track**: Total days passed in the current term vs. days remaining until the term ends.
-* **Why**: Freedom in self-paced programs can lead to pacing traps. Seeing **"27 Days Remaining"** alongside **"4 Courses Left"** instantly establishes your required completion pace (e.g., 6.7 days per course) to keep you on schedule.
-
-#### 6. Hard Administrative Cutoff Deadlines
-* **What to Track**: UMPI YourPace administrative deadlines (Course Add Cutoff, Milestone Submission Cutoff, Final Draft Cutoff, Final Grade Cutoff).
-* **Why**: UMPI YourPace has strict cutoff rules for adding new courses or submitting final papers before the 8-week term closes. Missing a cutoff can prevent you from unlocking your next course.
-
-#### 7. Instructor Velocity & Strategy Notes
-* **What to Track**: Instructor grading speed (e.g., *"Grades in 24 hours"* vs. *"Takes 3 days"*), specific feedback patterns, or cross-credited course notes.
-* **Why**: Knowing instructor turnaround speed lets you strategically sequence submissions—submitting to a fast grader right before a weekend ensures you get your next milestone unlocked quickly without downtime.
+| Tracking Field | Data Tracked | Operational Rationale |
+| :--- | :--- | :--- |
+| **1. Course Identifiers** | Course Code (e.g., `BUS 353`), Title, Credit Hours, Platform | Prevents confusion between similar courses (e.g., `BUS 240` vs. `BUS 245` vs. `BUS 415`) and tracks transfer credit sources. |
+| **2. Granular Status** | `Started`, `Draft Sent`, `Final Sent`, `Complete`, `Transferred` | Color-coded status fields give an instant visual check of what is active vs. waiting on instructor review. |
+| **3. Milestone Columns** | Separate columns for `M1`, `M2`, `M3`, `M4`, `M5`, `Final Draft`, `Final` | Identifies the exact bottleneck in any course so you know whether you are waiting on M2 or ready for the Final. |
+| **4. Submission Timers** | Submission Timestamp (`Aug 1, 15:08`) & Elapsed Time Calculator | Tracks instructor grading windows and alerts you when a submission has exceeded standard turnaround times. |
+| **5. Term Clock Metrics** | Days Elapsed vs. Days Remaining in current 8-week term | Seeing **"27 Days Remaining"** alongside **"4 Courses Left"** calculates required pace (e.g., 6.7 days/course). |
+| **6. Hard Cutoff Dates** | Course Add Cutoff, Milestone Cutoff, Final Submission Cutoff | Prevents missing administrative deadlines that block unlocking your next course section. |
+| **7. Instructor Notes** | Grading velocity (*"Grades in 24 hrs"* vs. *"Takes 3 days"*) | Allows strategic submission sequencing—submitting to a fast grader right before a weekend eliminates downtime. |
 
 ---
 
 ## Part 4: Micro Level — Course Workspace Architecture & Organization
 
-Traditional self-paced platforms (like Sophia or Study.com) often encourage chaotic file habits—saving random drafts and downloads directly to the Desktop or Downloads folder. In UMPI YourPace courses, disorganized workspaces lead to lost prompt requirements, misplaced citations, and duplicated effort.
-
-By adopting a **Clean Module Directory Architecture**, you keep your thoughts organized, reduce cognitive friction, and eliminate wasted time.
+By adopting a **Clean Module Directory Architecture**, you keep your thoughts organized, reduce cognitive friction, and eliminate wasted time hunting for misplaced files.
 
 ### Standardized Course Directory Structure
-For every course, create a dedicated folder structured as follows:
+
+For every course, create a dedicated directory structured as follows:
 
 ```text
 /Course_Name (e.g., OLS 500 Data Driven)
@@ -144,47 +129,53 @@ For every course, create a dedicated folder structured as follows:
 │   ├── srts/                   <-- Downloaded .srt video subtitle files for Mod 2
 │   ├── Milestone_2.txt         <-- Working draft file for Milestone 2
 │   └── Milestone_2.docx        <-- Final formatted submission file
-├── mod 3/                      <-- Module 3 folder
-│   ├── mod3.txt                <-- Local plain-text copy of assignment prompt & rubric
-│   ├── course materials/       <-- PDFs, readings, articles, & textbook chapters for Mod 3
-│   ├── srts/                   <-- Downloaded .srt video subtitle files for Mod 3
-│   ├── Milestone_3.txt         <-- Working draft file for Milestone 3
-│   └── Milestone_3.docx        <-- Final formatted submission file
 └── final/                      <-- Final Assessment folder
     ├── Final_Submission.txt    <-- Working draft file for Final Assessment
     └── Final_Submission.docx   <-- Final formatted submission file
 ```
 
-### The "Prompt Inoculation" Method (`modX.txt`)
-Before typing a single word of a draft, copy the exact assignment prompt and rubric criteria from your Brightspace/D2L portal directly into a local plain-text file (`mod1.txt`, `mod2.txt`).
+---
 
-* **Why it matters**: You never have to switch tabs, log back into the LMS, or hunt for rubric guidelines while writing. Your prompt criteria sit right next to your draft.
+### Key Directory Protocols
 
-### Sub-Folder Organization: `course materials/` & `srts/`
-Inside each module folder, maintain two dedicated sub-folders:
-* **`course materials/`**: Holds all downloaded course PDFs, articles, reading assignments, and textbook chapters for that module.
-* **`srts/`**: Holds all downloaded `.srt` video subtitle transcript files for that module's video lectures.
+> [!NOTE]
+> **1. The "Prompt Inoculation" Method (`modX.txt`)**  
+> Before typing a single word of a draft, copy the exact assignment prompt and rubric criteria from Brightspace into a local plain-text file (`mod1.txt`, `mod2.txt`). Your prompt criteria sit right next to your draft so you never switch tabs or hunt for rubrics while writing.
 
-### Mandatory APA 7 Standard (Stop Wasting Time Asking)
-* **Every Single Document is APA 7**: A common point of confusion among new UMPI students on Discord and Reddit is asking whether a specific milestone or final assignment requires APA 7 formatting. **Yes, it does — every single document submitted at UMPI YourPace requires APA 7 formatting.** Stop wasting time asking; simply treat APA 7 as the non-negotiable default for every paper, essay, and milestone across all courses.
-* **Gold-Standard APA 7 Reference**: Reference the official **[Purdue OWL APA 7 Formatting & Style Guide](https://owl.purdue.edu/owl/research_and_citation/apa_style/apa_formatting_and_style_guide/apa_sample_paper.html)** for sample papers, title page setups, in-text citations, and reference list formatting.
+> [!NOTE]
+> **2. Sub-Folder Organization: `course materials/` & `srts/`**  
+> * **`course materials/`**: Holds all downloaded course PDFs, articles, reading assignments, and textbook chapters for that module.  
+> * **`srts/`**: Holds all downloaded `.srt` video subtitle transcript files for that module's video lectures.
 
-### Plain-Text First Drafting Strategy (`.txt` to `.docx`)
-Some students prefer building pre-formatted Microsoft Word templates (`12 pt Times New Roman, double-spaced`) upfront. Personally, I hate writing inside double-spaced 12 pt Times New Roman from scratch—it slows down my train of thought.
+---
 
-* **Draft in Plain Text First**: Write all working drafts in simple plain-text (`.txt`). Drafting in plain text forces you to focus 100% on argument flow, thesis depth, and source citations without getting distracted by Word line spacing, font dropdowns, or margins.
-* **The Rapid Polishing Pass**: Once the draft is complete, copy the plain text into Microsoft Word and format it into APA 7 right before submitting. With practice, you get significantly faster—you can take an unformatted plain-text draft and turn it into a polished APA 7 document in just a few minutes. 
-* **The Hidden Benefit**: This final formatting pass forces you to read through your entire paper line-by-line one more time, catching typos, passive voice, and weak transitions right before submission.
-* **Do Whatever Works for You**: Whether you prefer starting from a Word template or using the plain-text-first method, choose whatever is easiest for you—just remember to stick strictly to APA 7 for every single document!
+### Mandatory APA 7 Standard & Drafting Strategy
+
+> [!IMPORTANT]
+> **Mandatory APA 7 Standard (Stop Wasting Time Asking)**  
+> * **Every Single Document is APA 7**: A common point of confusion among new UMPI students on Discord and Reddit is asking whether a specific milestone or final assignment requires APA 7 formatting. **Yes, it does — every single document submitted at UMPI YourPace requires APA 7 formatting.** Stop wasting time asking; simply treat APA 7 as the non-negotiable default for every paper, essay, and milestone across all courses.
+> * **Gold-Standard APA 7 Reference**: Reference the official **[Purdue OWL APA 7 Formatting & Style Guide](https://owl.purdue.edu/owl/research_and_citation/apa_style/apa_formatting_and_style_guide/apa_sample_paper.html)** for sample papers, title page setups, in-text citations, and reference list formatting.
+
+> [!TIP]
+> **Plain-Text First Drafting Strategy (`.txt` to `.docx`)**  
+> Some students prefer building pre-formatted Microsoft Word templates (`12 pt Times New Roman, double-spaced`) upfront. Personally, I hate writing inside double-spaced 12 pt Times New Roman from scratch—it slows down my train of thought.
+> 
+> * **Draft in Plain Text First**: Write all working drafts in simple plain-text (`.txt`). Drafting in plain text forces you to focus 100% on argument flow, thesis depth, and source citations without getting distracted by Word line spacing, font dropdowns, or margins.
+> * **The Rapid Polishing Pass**: Once the draft is complete, copy the plain text into Microsoft Word and format it into APA 7 right before submitting. With practice, you get significantly faster—you can take an unformatted plain-text draft and turn it into a polished APA 7 document in just a few minutes. 
+> * **The Hidden Benefit**: This final formatting pass forces you to read through your entire paper line-by-line one more time, catching typos, passive voice, and weak transitions right before submission.
+> * **Do Whatever Works for You**: Whether you prefer starting from a Word template or using the plain-text-first method, choose whatever is easiest for you—just remember to stick strictly to APA 7 for every single document!
 
 ---
 
 ## Part 5: The Core Human Execution System (Non-AI Workflow)
 
 ### Step 1: Syllabus & Instructor Contact Setup
+
 Before writing a single sentence, open the **Syllabus / Welcome tab** in your Brightspace portal and read it from top to bottom.
 
-* **Locate Instructor Contact Information Immediately**: Students frequently struggle to find how to contact their professor. The Syllabus tab is the central hub containing your instructor's **direct email address** and often an **urgent phone/text number** (e.g., *"Feel free to text 207-XXX-XXXX"*). Copy this contact info into your `sources.txt` or `mod1.txt` file on Day 1.
+> [!TIP]
+> **Locate Instructor Contact Information Immediately**: The Syllabus tab is the central hub containing your instructor's **direct email address** and often an **urgent phone/text number** (e.g., *"Feel free to text 207-XXX-XXXX"*). Copy this contact info into your `sources.txt` or `mod1.txt` file on Day 1.
+
 * **Map the Course Arc**: Identify every milestone assignment, knowledge check, and the final project/essay requirement upfront.
 * **Select an Overarching Topic Early**: Pick a single, robust research topic or real-world operational scenario during Module 1 that can thread directly through every milestone into the final project.
 * **Cumulative Stacking (Building the Final as You Go)**: Re-using a consistent operational theme means Milestones 1–5 serve as building blocks. By the time you reach the Final Assessment, 70% of your research, references, and core arguments are already written.
@@ -192,6 +183,7 @@ Before writing a single sentence, open the **Syllabus / Welcome tab** in your Br
 ---
 
 ### Step 2: Source Extraction & Video Subtitles
+
 Maximize learning and eliminate note-taking during lectures.
 
 * **Watch Assigned Videos for Deep Context**: Video lectures and talks provide far richer context and better conceptual understanding than dry textbook readings alone. Watch them to absorb the core ideas.
@@ -203,27 +195,35 @@ Maximize learning and eliminate note-taking during lectures.
 ---
 
 ### Step 3: The Lived-Experience Braindump
+
 Academic essays backed only by textbook summaries sound generic. Ground your work in real experience.
 
-* **Write a Raw Operational Story**: Spend 10–15 minutes braindumping a real workplace scenario, project, or operational problem you have managed.
-* **Focus on Concrete Details**: Include specific tools, safety rules, regulatory mandates, budget approvals, or operational constraints.
-* **No Formatting Required**: Do not worry about grammar or academic structure during the braindump—focus strictly on capturing authentic operational facts.
+1. **Write a Raw Operational Story**: Spend 10–15 minutes braindumping a real workplace scenario, project, or operational problem you have managed.
+2. **Focus on Concrete Details**: Include specific tools, safety rules, regulatory mandates, budget approvals, or operational constraints.
+3. **No Formatting Required**: Do not worry about grammar or academic structure during the braindump—focus strictly on capturing authentic operational facts.
 
 ---
 
 ### Step 4: The 8-Source Reference Selection System
+
 Instead of randomly picking references, follow this exact **8-Source Formula** for every major essay to guarantee full rubric coverage and complete citation support:
 
-* **Source 1 (Primary Anchor Reading)**: Select the main textbook or course reading used most heavily throughout the module's core materials (`mod X/course materials/`).
-* **Source 2 (Core Conceptual Support)**: Select the reading or article that directly supports the majority of your essay's specific arguments and operational scenarios.
-* **Sources 3–6 (Targeted Gap Fillers & Framework Support)**: Select 4 additional course readings or empirical journal articles specifically chosen to fill in remaining rubric requirements, support secondary arguments, or provide stronger statistical proof.
-* **Sources 7–8 (Assigned Video Transcripts)**: Select the 2 best YouTube videos/talks from your `mod X/srts/` folder that you found most interesting and that provide direct quotes/insights to strengthen your essay.
+### The 8-Source Formula
 
-* **Why it works**: Having exactly 8 targeted sources guarantees every single concept in your essay is cited, satisfies professor expectations for academic depth, and prevents last-minute scrambling for references.
+| Source Slot | Source Type | Storage Location | Operational Purpose |
+| :--- | :--- | :--- | :--- |
+| **Source 1** | Primary Anchor Reading | `mod X/course materials/` | Baseline foundation for the module's core arguments. |
+| **Source 2** | Core Conceptual Support | `mod X/course materials/` | Directly supports your essay's specific operational scenario. |
+| **Sources 3–6** | Targeted Gap Fillers | Peer-Reviewed Journals | Fills remaining rubric requirements & statistical proof. |
+| **Sources 7–8** | Video Lecture Transcripts | `mod X/srts/` | Provides timestamped verbatim quotes from course videos. |
+
+> [!NOTE]
+> **Why it works**: Having exactly 8 targeted sources guarantees every single concept in your essay is cited, satisfies professor expectations for academic depth, and prevents last-minute scrambling for references.
 
 ---
 
 ### Step 5: Plain English Writing & Orwell’s 6 Rules
+
 Avoid pompous academic jargon and artificial filler. Apply George Orwell's classic plain-English rules (*"Politics and the English Language"*):
 
 1. **Never use a metaphor, simile, or figure of speech** you are used to seeing in print.
@@ -248,16 +248,23 @@ graph TD
     E --> F["Final Submission"]
 ```
 
+---
+
 ### 1. Interactive Context Interviews (Refining Your Braindump)
+
 Instead of asking AI to write for you, use AI as an interviewer to extract missing operational context.
 
-* **The Prompt**: Feed your raw story braindump to the AI alongside the course rubric.
+* **The Setup**: Feed your raw story braindump to the AI alongside the course rubric.
 * **The Directive**: Instruct the AI to act as a senior project manager or academic interviewer and ask you 3–5 targeted questions about missing metrics, policy details, or operational steps needed to align your story with the rubric criteria.
-* **Outcome**: You provide the authentic answers, creating a rich, fully contextualized foundation for your assignment.
+
+```markdown
+Act as a senior project manager and academic interviewer. Review my raw operational braindump alongside this rubric. Ask me 3 to 5 targeted questions about missing metrics, safety policies, or operational constraints needed to fully satisfy the rubric criteria. Do not write the paper for me; simply ask the clarifying questions.
+```
 
 ---
 
 ### 2. Automated Rubric & Professor Grading Simulation
+
 Get an objective pre-submission audit before handing in your work.
 
 * **The Inputs**:
@@ -270,6 +277,7 @@ Get an objective pre-submission audit before handing in your work.
 ---
 
 ### 3. Presentation Asset Generation (Minimalist Slide Clipart)
+
 When creating presentation slides for milestone assignments, generate custom visual assets that maintain clean, professional focus.
 
 * **Visual Style**: Classic 90s-style minimalist clipart (MS Office 97/2000 aesthetic).
@@ -282,9 +290,12 @@ When creating presentation slides for milestone assignments, generate custom vis
 ---
 
 ### 4. Cameo Video Recording & Presentation Confidence
+
 For courses that require a video presentation (Cameo recordings), keep these critical strategies in mind:
 
-* **Research Professor Audience Requirements**: While there is no way around recording Cameo videos, some professors strictly require a live audience in the video while others are flexible. Because students have valid personal reasons for why they cannot record with an audience, it is essential to research professor reviews in the student Discord (`#professor-reviews`) to find instructors who accommodate individual needs.
+> [!TIP]
+> **Research Professor Audience Requirements**: While there is no way around recording Cameo videos, some professors strictly require a live audience in the video while others are flexible. Research professor reviews in the student Discord (`#professor-reviews`) to find instructors who accommodate individual needs.
+
 * **Camera Confidence & Grading Reality**: If you feel nervous recording yourself, remember that **only your professor will see your video**. Wear something nice, speak clearly, and realize that for the vast majority of courses, you are being evaluated on content mastery—not public speaking skills.
 * **The Hand-Anchor Hack (Bluetooth Mic)**: The single best practical tip for recording is to pick up a **DJI Bluetooth microphone** (or similar wireless mic). The main benefit isn't just audio quality—it's giving your hands a physical job to do. Hold the microphone body in one hand while using your other hand to scroll through your speaker notes. Giving your hands a physical task eliminates awkward fidgeting, grounds your body, and noticeably boosts your confidence and focus while recording.
 
@@ -294,11 +305,5 @@ For courses that require a video presentation (Cameo recordings), keep these cri
 
 Self-paced UMPI YourPace programs offer unmatched flexibility, but they demand internal discipline. Maintaining the right psychological perspective and humor is essential to keeping your momentum high.
 
-### 1. The 10-Minute Burnout Prevention Rule
-On low-motivation days when you are feeling burned out, finding excuses, or seeking every distraction:
-* **The Rule**: Force yourself to spend **just 10 minutes** on every active course you have open.
-* **Why it works**: You don't need to finish an entire essay or milestone. Spending 10 minutes reading a prompt, organizing references, or writing one paragraph keeps your brain locked in **"student mode."** It keeps the material fresh, ensures daily forward progress, and almost always breaks through the friction of starting.
-
-### 2. Perspective & Confidence
-* **Demystify Higher Education**: Never let academic anxiety or intimidation stop you. College was fundamentally designed for drunk, high, horny, dumb teenagers figuring out life for the first time.
-* **The Bottom Line**: If thousands of teenagers can stumble their way through college and earn a degree, a mature adult bringing real-world operational experience, discipline, and practical problem-solving skills can easily earn ten.
+> [!NOTE]
+> **The 10-Minute Burnout Prevention Rule**: If you hit a mental wall while writing, set a timer for 10 minutes. Tell yourself you only have to work for 10 minutes. If you still feel completely drained when the timer rings, close your laptop and step away for the day without guilt. 90% of the time, simply crossing the 10-minute starting threshold breaks through procrastination and gets your momentum flowing again.
