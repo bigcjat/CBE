@@ -3,8 +3,17 @@
 
 ---
 
-## Overview
-This guide outlines a proven, end-to-end framework for planning, researching, writing, and submitting coursework in the **UMPI YourPace** Competency-Based Education (CBE) program. It is designed to maximize efficiency, maintain high academic rigor, leverage real-world experience, and streamline progression from Milestone 1 to the Final Assessment.
+## Overview & Hard Disclaimer: Who This Guide Is (and Is Not) For
+
+This guide provides a systematic, end-to-end blueprint for navigating, structuring, and rapidly completing coursework in the **UMPI YourPace** Competency-Based Education (CBE) program.
+
+> [!WARNING]
+> **CRITICAL REALITY CHECK: CBE IS COMPETENCY VERIFICATION, NOT A SUBSTITUTE FOR EXPERIENCE**  
+> Competency-Based Education (CBE) is designed specifically for **experienced adult professionals** who already possess years of real-world operational, managerial, or technical experience across the subjects that make up their degree. At its core, CBE is **competency verification**—it is a mechanism for proving through direct experience that you already possess the knowledge required for an accredited degree.
+> 
+> * **Why Experience is Mandatory for Written Assignments**: In every written assignment across every single class, professors expect you to relate academic topics directly to authentic, lived workplace experience. If you lack real-world experience, you will be unable to write the quality, nuanced essays that CBE professors are looking for. Instead, your papers will rely entirely on generic course materials, sound detached and mechanical, and likely raise suspicion.
+> * **You Are Wasting Your Money If You Lack Experience**: If you are a recent high school graduate, a young adult, or someone without years of real-world work experience, **UMPI YourPace is not appropriate for you, and no amount of execution guides will save you—you are simply wasting your money.**
+> * **Recommendation for Inexperienced Students**: If you do not have a solid foundation of real-world work experience to draw upon, I strongly recommend contacting your advisor, withdrawing from YourPace, and enrolling in a traditional classroom/lecture program where foundational concepts are taught step-by-step from scratch.
 
 ---
 
