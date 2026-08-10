@@ -44,24 +44,24 @@ Before starting your UMPI YourPace term, maximize your transfer credits to minim
 
 ---
 
-## Part 2: Proactive Instructor Selection & Community Research
+## Part 2: Proactive Professor Selection & Community Research
 
-One of the single most effective strategies in UMPI YourPace is spending **10 minutes researching and requesting specific instructors** before adding a course. 
+One of the single most effective strategies in UMPI YourPace is spending **10 minutes researching and requesting specific professors** before adding a course. 
 
-While core assignment prompts and rubrics remain identical regardless of who teaches the class, instructor grading turnaround speed, feedback depth, and evaluation style vary significantly. Selecting an instructor who aligns with your pace and communication style can save days of waiting time per course.
+While core assignment prompts and rubrics remain identical regardless of who teaches the class, professor grading turnaround speed, feedback depth, and evaluation style vary significantly. Selecting a professor who aligns with your pace and communication style can save days of waiting time per course.
 
 ### 1. Leverage Community Reviews (Discord & Reddit)
 
 > [!TIP]
-> **Instructor Selection Hack**: Content is standardized across all sections, but securing an instructor who grades efficiently keeps your momentum going without administrative bottlenecks. Before requesting a section, check student feedback:
+> **Professor Selection Hack**: Content is standardized across all sections, but securing a professor who grades efficiently keeps your momentum going without administrative bottlenecks. Before requesting a section, check student feedback:
 > * **[UMPI Student Discord Community](https://discord.gg/P6HnsZ8CdQ)**: Access dedicated review channels:
 >   * **`#professor-reviews`**: Read feedback on grading turnaround times (e.g., 24-hour graders vs. multi-day turnaround), accommodating communication, and grading fairness.
->   * **`#class-reviews`**: Review overall course difficulty, number of milestone activities, and specific instructor recommendations for that exact class.
-> * **[r/UMPI Subreddit](https://www.reddit.com/r/UMPI/)**: Search the official student subreddit for course completion reports, transfer strategies, instructor insights, and degree planning advice.
+>   * **`#class-reviews`**: Review overall course difficulty, number of milestone activities, and specific professor recommendations for that exact class.
+> * **[r/UMPI Subreddit](https://www.reddit.com/r/UMPI/)**: Search the official student subreddit for course completion reports, transfer strategies, professor insights, and degree planning advice.
 
 ---
 
-### 2. How to Lookup Available Instructors (MaineStreet Class Search)
+### 2. How to Lookup Available Professors (MaineStreet Class Search)
 
 Follow these exact steps to see which professors are teaching upcoming UMPI YourPace course sections:
 
@@ -73,10 +73,10 @@ Follow these exact steps to see which professors are teaching upcoming UMPI Your
 6. Set **Institution** to *University Maine Presque Isle*.
 7. Set **Term** to your active term (e.g., *2026 Summer* or *2026 Fall*).
 8. Set **Session** to *OnlineMaine Session 01* (YourPace Session 1) or *OnlineMaine Session 02* (YourPace Session 2).
-9. Click **Search**. Scroll through the alphabetized course list to inspect active sections and view the assigned instructor for each section.
+9. Click **Search**. Scroll through the alphabetized course list to inspect active sections and view the assigned professor for each section.
 
 > [!NOTE]
-> **Requesting Your Preferred Instructor**: When emailing advising (`yourpace@maine.edu`) to add your next competency, explicitly request your preferred professor by name.
+> **Requesting Your Preferred Professor**: When emailing advising (`yourpace@maine.edu`) to add your next competency, explicitly request your preferred professor by name.
 
 ---
 
@@ -97,12 +97,12 @@ Below is the **essential minimum tracking schema** every UMPI YourPace student s
 | Tracking Field | Data Tracked | Operational Rationale |
 | :--- | :--- | :--- |
 | **1. Course Identifiers** | Course Code (e.g., `BUS 353`), Title, Credit Hours, Platform | Prevents confusion between similar courses (e.g., `BUS 240` vs. `BUS 245` vs. `BUS 415`) and tracks transfer credit sources. |
-| **2. Granular Status** | `Started`, `Draft Sent`, `Final Sent`, `Complete`, `Transferred` | Color-coded status fields give an instant visual check of what is active vs. waiting on instructor review. |
+| **2. Granular Status** | `Started`, `Draft Sent`, `Final Sent`, `Complete`, `Transferred` | Color-coded status fields give an instant visual check of what is active vs. waiting on professor review. |
 | **3. Milestone Columns** | Separate columns for `M1`, `M2`, `M3`, `M4`, `M5`, `Final Draft`, `Final` | Identifies the exact bottleneck in any course so you know whether you are waiting on M2 or ready for the Final. |
-| **4. Submission Timers** | Submission Timestamp (`Aug 1, 15:08`) & Elapsed Time Calculator | Tracks instructor grading windows and alerts you when a submission has exceeded standard turnaround times. |
+| **4. Submission Timers** | Submission Timestamp (`Aug 1, 15:08`) & Elapsed Time Calculator | Tracks professor grading windows and alerts you when a submission has exceeded standard turnaround times. |
 | **5. Term Clock Metrics** | Days Elapsed vs. Days Remaining in current 8-week term | Seeing **"27 Days Remaining"** alongside **"4 Courses Left"** calculates required pace (e.g., 6.7 days/course). |
 | **6. Hard Cutoff Dates** | Course Add Cutoff, Milestone Cutoff, Final Submission Cutoff | Prevents missing administrative deadlines that block unlocking your next course section. |
-| **7. Instructor Notes** | Grading velocity (*"Grades in 24 hrs"* vs. *"Takes 3 days"*) | Allows strategic submission sequencing—submitting to a fast grader right before a weekend eliminates downtime. |
+| **7. Professor Notes** | Grading velocity (*"Grades in 24 hrs"* vs. *"Takes 3 days"*) | Allows strategic submission sequencing—submitting to a fast grader right before a weekend eliminates downtime. |
 
 ---
 
@@ -171,17 +171,24 @@ For every course, create a dedicated directory structured as follows:
 > 
 > * **Degree Strategy Tutorial**: For a complete step-by-step walkthrough on setting up Zotero for UMPI courses, watch **[How to Use Zotero for Fast Academic Research](https://www.youtube.com/watch?v=fHQtAodgNrQ)** by **Melanie** from the **Degree Strategy** channel (a UMPI Bachelor's and Master's graduate). Her guide shows how to save web articles/PDFs with one click and auto-export formatted APA 7 citations straight into your papers.
 
+> [!IMPORTANT]
+> **Always Submit a Final Draft First (Never "YOLO" Your Final Assessment)**  
+> Another constant point of confusion on Discord is students skipping draft submissions or ignoring professor feedback. Follow these non-negotiable submission rules:
+> * **Always Submit a Draft First**: Never bypass the draft submission step for your Final Assessment.
+> * **Address Every Bit of Feedback**: Unless your professor explicitly tells you to submit your draft directly as your final (meaning you scored perfect marks), **always address every single piece of feedback** before submitting the final version.
+> * **Draft Scores Do NOT Guarantee Final Grades**: Even if you don't care about Latin Honors or perfect scores, receiving a 3/4 on a draft criterion does *not* guarantee a 3/4 if you re-submit it unedited as your final. Professors expect active revisions.
+> * **Never "YOLO" a Final Essay**: Do not get cocky and submit a final without getting draft feedback first. Bypassing the feedback loop could annoy a professor, and your final score will likely reflect it. Just don't do it.
 
 ---
 
 ## Part 5: The Core Human Execution System (Non-AI Workflow)
 
-### Step 1: Syllabus & Instructor Contact Setup
+### Step 1: Syllabus & Professor Contact Setup
 
 Before writing a single sentence, open the **Syllabus / Welcome tab** in your Brightspace portal and read it from top to bottom.
 
 > [!TIP]
-> **Locate Instructor Contact Information Immediately**: The Syllabus tab is the central hub containing your instructor's **direct email address** and often an **urgent phone/text number** (e.g., *"Feel free to text 207-XXX-XXXX"*). Copy this contact info into your `sources.txt` or `mod1.txt` file on Day 1.
+> **Locate Professor Contact Information Immediately**: The Syllabus tab is the central hub containing your professor's **direct email address** and often an **urgent phone/text number** (e.g., *"Feel free to text 207-XXX-XXXX"*). Copy this contact info into your `sources.txt` or `mod1.txt` file on Day 1.
 
 * **Map the Course Arc**: Identify every milestone assignment, knowledge check, and the final project/essay requirement upfront.
 * **Select an Overarching Topic Early**: Pick a single, robust research topic or real-world operational scenario during Module 1 that can thread directly through every milestone into the final project.
@@ -305,7 +312,7 @@ When creating presentation slides for milestone assignments, generate custom vis
 For courses that require a video presentation (Cameo recordings), keep these critical strategies in mind:
 
 > [!TIP]
-> **Research Professor Audience Requirements**: While there is no way around recording Cameo videos, some professors strictly require a live audience in the video while others are flexible. Research professor reviews in the student Discord (`#professor-reviews`) to find instructors who accommodate individual needs.
+> **Research Professor Audience Requirements**: While there is no way around recording Cameo videos, some professors strictly require a live audience in the video while others are flexible. Research professor reviews in the student Discord (`#professor-reviews`) to find professors who accommodate individual needs.
 
 * **Camera Confidence & Grading Reality**: If you feel nervous recording yourself, remember that **only your professor will see your video**. Wear something nice, speak clearly, and realize that for the vast majority of courses, you are being evaluated on content mastery—not public speaking skills.
 * **The Hand-Anchor Hack (Bluetooth Mic)**: The single best practical tip for recording is to pick up a **DJI Bluetooth microphone** (or similar wireless mic). The main benefit isn't just audio quality—it's giving your hands a physical job to do. Hold the microphone body in one hand while using your other hand to scroll through your speaker notes. Giving your hands a physical task eliminates awkward fidgeting, grounds your body, and noticeably boosts your confidence and focus while recording.
