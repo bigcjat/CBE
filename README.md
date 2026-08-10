@@ -165,6 +165,13 @@ For every course, create a dedicated directory structured as follows:
 > * **The Hidden Benefit**: This final formatting pass forces you to read through your entire paper line-by-line one more time, catching typos, passive voice, and weak transitions right before submission.
 > * **Do Whatever Works for You**: Whether you prefer starting from a Word template or using the plain-text-first method, choose whatever is easiest for you—just remember to stick strictly to APA 7 for every single document!
 
+> [!TIP]
+> **Automated Citation & Reference Management (Zotero)**  
+> To automate collecting research papers, organizing citations, and building instant APA 7 reference lists across all your courses, install **[Zotero](https://www.zotero.org/)** (a free, open-source reference manager).
+> 
+> * **Degree Strategy Tutorial**: For a complete step-by-step walkthrough on setting up Zotero for UMPI courses, watch **[How to Use Zotero for Fast Academic Research](https://www.youtube.com/watch?v=fHQtAodgNrQ)** by **Melanie** from the **Degree Strategy** channel (a UMPI Bachelor's and Master's graduate). Her guide shows how to save web articles/PDFs with one click and auto-export formatted APA 7 citations straight into your papers.
+
+
 ---
 
 ## Part 5: The Core Human Execution System (Non-AI Workflow)
