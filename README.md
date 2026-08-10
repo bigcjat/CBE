@@ -294,6 +294,10 @@ When creating presentation slides for milestone assignments, generate custom vis
   * **No text, words, lettering, or numbers** embedded in the image.
 * **Integration**: Insert the clean clipart into your PowerPoint/Keynote slides and embed your presentation script word-for-word into the **Speaker Notes** section of each slide.
 
+> [!TIP]
+> **Slide Design Hack (PDF-to-PowerPoint Conversion)**:  
+> If designing directly inside PowerPoint feels clunky or frustrating, you don't have to build slides from scratch in PowerPoint. You can design your slide layout in whatever software you are most comfortable with (including Microsoft Word, Google Docs, or Canva), save or "print" the file as a PDF, and then convert the PDF directly into a `.pptx` PowerPoint presentation.
+
 ---
 
 ### 4. Cameo Video Recording & Presentation Confidence
