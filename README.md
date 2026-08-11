@@ -51,6 +51,20 @@ Before starting your UMPI YourPace term, maximize your transfer credits to minim
 * **Community Guidance**: The creator of Plotted Path (`whimsicalone` / Plotted Path ✨) is active in the UMPI YourPace student Discord community, regularly answering student questions on course planning and minor combinations.
 * **Custom Degree Plans**: For students with complex prior credits or specific timeline targets, Plotted Path offers personalized, custom degree mapping services for a fee—well worth the investment to optimize your transfer strategy before enrolling.
 
+### Addressing Transfer Credit Anxiety: The Graduate Degree Strategy
+
+> [!TIP]
+> **THE GRADUATE DEGREE "CREDIT CLEANSING" STRATEGY (Employers & Immigration)**  
+> **Worrying that having 75%+ of your degree transferred from Sophia and Study.com looks bad?**  
+> If you plan to continue directly into a master's program (such as UMPI’s **MAOL** or **MS in Business Intelligence**), employers and immigration authorities will evaluate your **highest degree earned**, rendering underlying transfer credit volume irrelevant.
+
+A common anxiety among CBE students is whether transferring 90 credits from third-party platforms like **Sophia.org** and **Study.com** will hurt their credibility with traditional employers, background check agencies, or international visa officers (e.g., for work visas in Japan, Europe, or the US).
+
+#### The Hierarchy of Credential Evaluation
+1. **The Highest Degree Dominates**: In corporate hiring and background screening, employers evaluate your *highest level of completed education*. Once you list a Master's degree on your resume, hiring managers rarely ask for your undergraduate transcripts, let alone audit ACE transfer credits.
+2. **Immigration & Work Visa Processing**: Immigration authorities evaluate institutional accreditation (Regionally Accredited / NECHE) and degree level. A Master's degree from a public state university satisfies degree requirements for foreign work visas instantly without officers parsing third-party transfer providers from years prior.
+3. **Cost-Effective Credential Stacking**: Using Sophia/Study.com allows you to finish your bachelor's in record time for under $3,000. Transitioning straight into a UMPI master's program gives you a graduate title for minimal extra cost and time, permanently erasing any perceived stigma attached to undergraduate transfer volume.
+
 ---
 
 ## Part 2: Proactive Professor Selection & Community Research
