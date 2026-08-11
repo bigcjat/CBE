@@ -31,7 +31,7 @@ I have now completed both my **Bachelor of Business Administration (BBA)** and m
 ### Professional & Background Context
 * **Oil & Gas Operations**: 20 years in the oil and gas industry, including 11 years as an operational field foreman for a producer on the British Columbia / Northwest Territories border in Canada.
 * **Software Engineering & Tech**: Developer in JavaScript, Python, and PHP for ~25 years. I first went to college in 2001 for a Network Diploma specializing in Windows 2000 and worked briefly at Yahoo!.
-* **Location & Lifestyle**: I currently live in Asia, traveling between Tokyo, Singapore, Hanoi, Taiwan, and South Korea. I have visited Japan 13 times so far and plan to settle there permanently.
+* **Location & Lifestyle**: I currently live in Asia, traveling between Tokyo, Singapore, Hanoi, Taiwan, and South Korea.
 
 ---
 
