@@ -26,7 +26,7 @@ I initially set out to earn a Bachelor of Liberal Studies (BLS) through UMPI You
 
 However, as I built and refined the systematic execution method detailed in this guide, I found that not only was it possible, but I finished the entire BBA with time left over in the term and several multi-day breaks along the way. 
 
-I am currently pursuing my **Master of Arts in Organizational Leadership (MAOL)** through UMPI YourPace at a much more relaxed, comfortable pace because I simply execute the exact execution system outlined here. Following the MAOL, my plan is to continue into the **MS in Business Intelligence**.
+I have now completed both my **Bachelor of Business Administration (BBA)** and my **Master of Arts in Organizational Leadership (MAOL)** through UMPI YourPace (having submitted my final capstone) by executing the exact systematic framework detailed in this guide. Following the MAOL, my plan is to continue into the **MS in Business Intelligence**.
 
 ### Professional & Background Context
 * **Oil & Gas Operations**: 20 years in the oil and gas industry, including 11 years as an operational field foreman for a producer on the British Columbia / Northwest Territories border in Canada.
