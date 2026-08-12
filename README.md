@@ -8,12 +8,14 @@
 This guide provides a systematic, end-to-end blueprint for navigating, structuring, and rapidly completing coursework in the **UMPI YourPace** Competency-Based Education (CBE) program.
 
 > [!WARNING]
-> **CRITICAL REALITY CHECK: CBE IS COMPETENCY VERIFICATION, NOT A SUBSTITUTE FOR EXPERIENCE**  
-> Competency-Based Education (CBE) is designed specifically for **experienced adult professionals** who already possess years of real-world operational, managerial, or technical experience across the subjects that make up their degree. At its core, CBE is **competency verification**—it is a mechanism for proving through direct experience that you already possess the knowledge required for an accredited degree.
+> **CRITICAL REALITY CHECK: CBE IS COMPETENCY VERIFICATION, NOT TRADITIONAL TEACHING**  
+> Competency-Based Education (CBE) is designed specifically for **experienced adult professionals** who already possess real-world operational, managerial, or technical knowledge. As UMPI officially states in its YourPace program guidelines:
 > 
-> * **Why Experience is Mandatory for Written Assignments**: In every written assignment across every single class, professors expect you to relate academic topics directly to authentic, lived workplace experience. If you lack real-world experience, you will be unable to write the quality, nuanced essays that CBE professors are looking for. Instead, your papers will rely entirely on generic course materials, sound detached and mechanical, and likely raise suspicion.
-> * **You Are Wasting Your Money If You Lack Experience**: If you are a recent high school graduate, a young adult, or someone without years of real-world work experience, **UMPI YourPace is not appropriate for you, and no amount of execution guides will save you—you are simply wasting your money.**
-> * **Recommendation for Inexperienced Students**: If you do not have a solid foundation of real-world work experience to draw upon, I strongly recommend contacting your advisor, withdrawing from YourPace, and enrolling in a traditional classroom/lecture program where foundational concepts are taught step-by-step from scratch.
+> > *"In a competency-based education program, your success rests upon your ability to demonstrate proficiency of knowledge and skills... [allowing] students to move through content at their own pace, **especially when they are able to apply previous educational, professional, and/or life experiences to assessments**. While student support is always at the forefront... **consistent and synchronous instructional support is not an expectation in the YourPace program**, due to the intentional design of the competency-based modality."* — **UMPI YourPace Policy**
+> 
+> * **Why Experience is Mandatory**: In every written assignment across every class, professors expect you to synthesize academic concepts with authentic, lived workplace experience. If you lack real-world experience, your papers will sound detached, mechanical, and fail to meet exemplary rubric standards.
+> * **No One Is Here to Teach You Step-by-Step**: As UMPI explicitly notes, there is no expectation of synchronous instruction. If you expect professors to deliver traditional lectures or guide you through foundational concepts from scratch, **you are in the wrong program and wasting your money**.
+> * **Recommendation for Inexperienced Students**: If you do not have a solid foundation of professional experience to draw from, withdraw from YourPace and enroll in a traditional classroom program where material is taught step-by-step.
 
 ---
 
