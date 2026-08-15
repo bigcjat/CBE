@@ -302,29 +302,64 @@ Act as a senior project manager and academic interviewer. Review my raw operatio
 
 ---
 
-### 2. Automated Rubric & Professor Grading Simulation
+### 2. Automated Rubric & Professor Grading Simulation (Finding Holes Before Submission)
 
-Get an objective pre-submission audit before handing in your work.
+Get an uncompromising, objective pre-submission audit before handing in your work to your actual professor. The goal is to surface hidden rubric gaps, verify previous feedback adherence, ensure strict APA 7 compliance, and catch ungrounded claims.
 
-* **The Inputs**:
-  1. The full assignment prompt and rubric criteria (`modX.txt`).
-  2. Past feedback your professor has given on previous assignments.
-  3. Student review insights or known professor grading preferences.
-  4. Your completed draft (`Milestone_X.txt`).
-* **The Directive**: Ask the AI to grade your draft strictly against the rubric, highlight any missing criteria or formatting errors, and estimate your score category (*Exemplary, Proficient, Developing*).
+* **The Core Objectives**:
+  * **Expose Rubric Blind Spots**: Identify any required prompt dimension or rubric criteria scored below *Exemplary (4/4)*.
+  * **Audit Past Feedback Compliance**: Verify that specific historical professor critiques (e.g., third-person tone, theoretical definitions, missing models) are explicitly resolved.
+  * **Cross-Reference In-Text Citations & Reference List**: Perform a 100% two-way check—every claim/theory has an in-text citation, and every reference listed in the bibliography is actively cited in the body text.
+  * **Ground Theoretical Claims**: Flag any assertions or industry definitions lacking formal theoretical grounding or citations.
+  * **APA 7 Formatting & Tone Verification**: Check title block accuracy, running headers, heading hierarchy, table formatting, and academic register.
+
+* **The Prompt Template**:
+
+```markdown
+Act as my strict university professor evaluating this assignment against the official rubric. Do not flatter me or provide polite encouragement—your sole objective is to find every hole, rubric gap, and formatting error before I make an official submission.
+
+Review my draft using the following provided inputs:
+1. [Assignment Prompt & Rubric]: (Paste rubric criteria and scoring tiers)
+2. [Past Feedback & Known Professor Preferences]: (Paste historical feedback from previous milestones)
+3. [Completed Draft]: (Paste draft text including title block and references)
+
+Perform a comprehensive evaluation and provide:
+- Estimated Criterion Scores: Rate each rubric category on the official scale (e.g., 1 to 4) with explicit justification for any point deductions.
+- Previous Feedback Audit: Verify line-by-line whether past instructor feedback was fully resolved.
+- Citation & Theory Audit: Identify any ungrounded claims, missing theoretical definitions, or orphan references (sources in the bibliography not cited in-text, or in-text citations missing from the reference list).
+- Actionable Punch List: A bulleted list of the exact revisions needed to guarantee an Exemplary (4/4) score upon actual submission.
+```
+
+### 3. Presentation Asset Generation: Why 90s Minimalist AI Clipart?
+
+The primary reason to use **90s-style minimalist AI clipart** is simple: **it is a massive time saver**.
+
+Instead of wasting 1–2 hours scouring Google Images, fighting stock photo watermarks, or dealing with inconsistent graphic styles, you can have AI generate bespoke artwork in seconds that relates to the exact subject of that specific slide. 
+
+* **Why 90s Clipart?**:
+  * **Instant Visual Consistency**: Sticking to a unified, clean 90s clipart aesthetic gives your entire slide deck a cohesive, polished look from the title slide to the conclusion.
+  * **Zero Time Wasted**: You get an exact visual match for your topic on demand without hunting through image libraries.
+* **Composition Rules**:
+  * Focus strictly on **one single clear subject or scene** (e.g., 1–2 people working or 1 key object).
+  * **Zero floating extra icons**, zero background clutter, zero random floating lightbulbs or gears.
+  * **No text, words, lettering, or numbers** embedded in the image.
 
 ---
 
-### 3. Presentation Asset Generation (Minimalist Slide Clipart)
+### 4. Slide Simplicity: Don't Jam Information Onto the Slide
 
-When creating presentation slides for milestone assignments, generate custom visual assets that maintain clean, professional focus.
+A common mistake students make is treating slides like a teleprompter, jamming walls of text, definitions, and dense bullet points onto the screen. 
 
-* **Visual Style**: Classic 90s-style minimalist clipart (MS Office 97/2000 aesthetic).
-* **Composition Rules**:
-  * Focus on **one single clear subject or scene** (e.g., 1–2 people working or 1 key object).
-  * **Zero floating extra icons**, zero background clutter, zero random lightbulbs/gears.
-  * **No text, words, lettering, or numbers** embedded in the image.
-* **Integration**: Insert the clean clipart into your PowerPoint/Keynote slides and embed your presentation script word-for-word into the **Speaker Notes** section of each slide.
+**Your slides should be clean, visual, and non-distracting.** 
+
+* **Let Your Voice Carry the Substance**: You fill in all the data, nuance, and academic context with your spoken voiceover (and embed the complete word-for-word script with APA 7 citations into the **Speaker Notes** section of each slide).
+* **The "How to Speak" Heuristic**: In the classic lecture **[MIT How to Speak](https://www.youtube.com/watch?v=Unzc731iCUY)**, **Professor Patrick Winston** points out that humans only have one language processor—an audience cannot read text on a slide and listen to a presenter at the same time. If a slide is packed with text, the audience reads ahead, tunes out your voice, and gets distracted. The slide should simply anchor the topic while you deliver the content.
+* **Evidence of Professor Praise**: Professors evaluate dozens of presentations every term and frequently complain about unreadable, text-heavy slide decks. Delivering uncluttered slides with focused clipart and comprehensive speaker notes consistently earns enthusiastic praise and top marks for professionalism:
+  > *"The visuals were simple and added value to your message without overwhelming it. Great presentation!"* — **UMPI Professor Feedback**
+  >
+  > *"The clean design of your slides supported the flow without distraction, making your delivery stronger and more professional. This is the type of clear, impactful communication that leaves a lasting impression."* — **UMPI Professor Feedback**
+  >
+  > *"I appreciated the simplicity of the visual. It didn't distract from the content. Nice!"* — **UMPI Professor Feedback**
 
 > [!TIP]
 > **Slide Design Hack (PDF-to-PowerPoint Conversion)**:  
@@ -332,7 +367,7 @@ When creating presentation slides for milestone assignments, generate custom vis
 
 ---
 
-### 4. Cameo Video Recording & Presentation Confidence
+### 5. Cameo Video Recording & Presentation Confidence
 
 For courses that require a video presentation (Cameo recordings), keep these critical strategies in mind:
 
