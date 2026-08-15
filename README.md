@@ -344,6 +344,23 @@ Instead of wasting 1–2 hours scouring Google Images, fighting stock photo wate
   * **Zero floating extra icons**, zero background clutter, zero random floating lightbulbs or gears.
   * **No text, words, lettering, or numbers** embedded in the image.
 
+* **Recommended Tool**: **Google Gemini** (fast, clean image generation).
+
+* **The Copy-Paste Clipart Prompt Template**:
+
+```markdown
+Generate a single visual asset in classic 90s-style minimalist clipart (MS Office 97/2000 aesthetic) on a clean, solid white background.
+
+Slide Context:
+- Slide Title / Topic: [Insert slide title or core concept]
+- Speaker Notes / Spoken Context: [Insert 1–2 sentences from your speaker notes describing the operational scenario]
+
+Strict Composition Rules:
+1. Focus strictly on ONE single clear subject or scene (e.g., 1–2 people collaborating or 1 key physical object/tool).
+2. Zero floating extra icons, zero background clutter, zero random floating lightbulbs, gears, or arrows.
+3. Absolutely NO text, words, lettering, numbers, or labels anywhere in the image.
+```
+
 ---
 
 ### 4. Slide Simplicity: Don't Jam Information Onto the Slide
