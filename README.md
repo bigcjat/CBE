@@ -402,5 +402,8 @@ For courses that require a video presentation (Cameo recordings), keep these cri
 
 Self-paced UMPI YourPace programs offer unmatched flexibility, but they demand internal discipline. Maintaining the right psychological perspective and humor is essential to keeping your momentum high.
 
+* **Demystify Higher Education**: Never let academic anxiety or intimidation stop you. College was fundamentally designed for drunk and high, hormonal teenagers figuring out life for the first time.
+* **The Bottom Line**: If thousands of teenagers can stumble their way through college and earn a degree, a mature adult bringing real-world operational experience, discipline, and practical problem-solving skills can easily earn ten.
+
 > [!NOTE]
 > **The 10-Minute Burnout Prevention Rule**: If you hit a mental wall while writing, set a timer for 10 minutes. Tell yourself you only have to work for 10 minutes. If you still feel completely drained when the timer rings, close your laptop and step away for the day without guilt. 90% of the time, simply crossing the 10-minute starting threshold breaks through procrastination and gets your momentum flowing again.
