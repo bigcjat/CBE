@@ -208,12 +208,14 @@ For every course, create a dedicated directory structured as follows:
 
 ## Part 5: The Core Human Execution System (Non-AI Workflow)
 
-### Step 1: Syllabus & Professor Contact Setup
+### Step 1: Syllabus & Professor Information Setup
 
 Before writing a single sentence, open the **Syllabus / Welcome tab** in your Brightspace portal and read it from top to bottom.
 
 > [!TIP]
-> **Locate Professor Contact Information Immediately**: The Syllabus tab is the central hub containing your professor's **direct email address** and often an **urgent phone/text number** (e.g., *"Feel free to text 207-XXX-XXXX"*). Copy this contact info into your `sources.txt` or `mod1.txt` file on Day 1.
+> **Record Professor Details in Your Tracker Immediately**: The Syllabus tab provides two essential pieces of information to record in your course tracking spreadsheet on Day 1:
+> * **Professor's Exact Name**: You need their correct name and formal title immediately because it must appear on the APA 7 title page of every milestone paper, presentation, and final assessment.
+> * **Professor's University Email**: Keep their direct email handy in your tracker so you can quickly reach out if you need clarification on an ambiguous assignment prompt or specific grading feedback.
 
 * **Map the Course Arc**: Identify every milestone assignment, knowledge check, and the final project/essay requirement upfront.
 * **Select an Overarching Topic Early**: Pick a single, robust research topic or real-world operational scenario during Module 1 that can thread directly through every milestone into the final project.
