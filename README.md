@@ -69,6 +69,35 @@ A common anxiety among CBE students is whether transferring 90 credits from thir
 
 ---
 
+### The "Chipotle Degree" Trap: Avoid the BLS & Reconsider Defaulting to the MAOL
+
+A common debate across YouTube, Reddit, and Discord is students trying to optimize for the absolute minimum number of courses, often choosing paths that hurt them long-term.
+
+> [!WARNING]
+> **THE GOLDEN RULE OF DEGREE SELECTION**:  
+> *If someone had to sell it to you as a good idea, you will forever have to sell it to others.*  
+> CBE gives you massive shortcuts, but you should use those shortcuts to walk away with a **better, higher-value degree**—not a sub-par compromise.
+
+#### 1. The BLS ("Chipotle Degree") Trap
+People online constantly try to sell the **Bachelor of Liberal Studies (BLS)** like it is a smart shortcut, claiming *"it checks the same box"* or *"if you get a master's later, your undergrad degree doesn't matter anyway."*
+
+**This is a trap.** 
+
+Saving a handful of courses is not worth the long-term disadvantage. For the rest of your career, you will either have to constantly explain to recruiters that your BLS was not an unfocused liberal arts degree, or forever wonder if hiring managers filtered your resume out in favor of candidates holding a standard Bachelor of Business Administration (BBA) or Bachelor of Science (BS). Do the extra coursework and graduate with a real, recognized business credential.
+
+#### 2. The MAOL Trap vs. The Master of Science in Business (MSB)
+The exact same shortcut trap happens at the graduate level. Students frequently rush into the **Master of Arts in Organizational Leadership (MAOL)** solely because you can roll up 3 to 4 courses from your UMPI undergrad, making it look like the easiest and fastest master's degree.
+
+Unless an MAOL aligns specifically with your exact career target, blindly defaulting to it is a mistake:
+* **Look at the MSB (Master of Science in Business)**: The MSB offers targeted, marketable concentrations (such as **Supply Chain Management**, **Project Management**, and **Healthcare Administration**). It is a far more respected, specialized graduate degree for the exact same tuition price.
+* **You Can Still Roll Up Courses**: Depending on your chosen MSB concentration, you can still roll up 1 to 2 courses from your undergrad, keeping your timeline short.
+* **Superhuman Grading Support (e.g., Dr. Michael Curran)**: In the Supply Chain concentration, the courses are taught by **Dr. Michael Curran**. If you are a capable writer with real workplace experience, completing this concentration is smooth and fast because Dr. Curran is an exceptionally supportive professor with superhuman grading turnaround times.
+* **Curriculum Boredom in the MAOL**: If you already completed a BBA or business coursework at UMPI, the MAOL curriculum becomes repetitive and boring. You will find yourself writing about the exact same leadership concepts and case studies on repeat, making it difficult to stay engaged.
+
+Take advantage of CBE's accelerated pacing to earn a powerful, specialized credential rather than settling for an easy title you will spend years defending.
+
+---
+
 ## Part 2: Proactive Professor Selection & Community Research
 
 One of the single most effective strategies in UMPI YourPace is spending **10 minutes researching and requesting specific professors** before adding a course. 
