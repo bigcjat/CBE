@@ -37,6 +37,44 @@ I have now completed both my **Bachelor of Business Administration (BBA)** and m
 
 ---
 
+## Table of Contents
+* **[Part 1: Degree Planning & Transfer Credit Optimization](#part-1-degree-planning--transfer-credit-optimization)**
+  * [The Catalog Lock-in Strategy](#the-catalog-lock-in-strategy-why-you-must-apply-today)
+  * [Leveraging Free Resources: Plotted Path](#leveraging-free-resources-plotted-path)
+  * [Addressing Transfer Credit Anxiety (Graduate Strategy)](#addressing-transfer-credit-anxiety-the-graduate-degree-strategy)
+  * [Protecting Your ACE Credits (Sophia & Study.com Hygiene)](#protecting-your-ace-credits-avoiding-account-suspensions-on-sophia--studycom)
+  * [The "Chipotle Degree" Trap (Avoid the BLS & Reconsider MAOL)](#the-chipotle-degree-trap-avoid-the-bls--reconsider-defaulting-to-the-maol)
+* **[Part 2: Proactive Professor Selection & Community Research](#part-2-proactive-professor-selection--community-research)**
+  * [Leverage Community Reviews (Discord & Reddit)](#1-leverage-community-reviews-discord--reddit)
+  * [How to Lookup Available Professors (MaineStreet)](#2-how-to-lookup-available-professors-mainestreet-class-search)
+  * [Active Course Limits & The "Final Sent" Acceleration Hack](#3-active-course-limits--the-final-sent-acceleration-hack)
+  * [What to Do When a Professor Doesn't Grade on Time (72-Hour Protocol)](#4-what-to-do-when-a-professor-doesnt-grade-on-time-the-72-hour-protocol)
+  * [Contacting the Program Director for Unresolved Issues](#step-3-persistent-friction-or-administrative-blockers-contact-the-program-director)
+* **[Part 3: Macro Level — Pacing & Progress Tracker](#part-3-macro-level--umpi-yourpace-pacing--progress-tracker-spreadsheet-system)**
+  * [Master Pacing Spreadsheet Schema](#master-pacing-spreadsheet-schema)
+  * [Academic Calendar Deadlines & Academic Standing Risks](#academic-calendar-deadlines--academic-standing-risks)
+* **[Part 4: Micro Level — Course Workspace Architecture](#part-4-micro-level--course-workspace-architecture--organization)**
+  * [Standardized Course Directory Structure](#standardized-course-directory-structure)
+  * [Mandatory APA 7 Standard & Plain-Text First Drafting](#mandatory-apa-7-standard--drafting-strategy)
+  * [Submitting Final Drafts First](#mandatory-apa-7-standard--drafting-strategy)
+* **[Part 5: The Core Human Execution System (Non-AI Workflow)](#part-5-the-core-human-execution-system-non-ai-workflow)**
+  * [Step 1: Syllabus & Professor Information Setup](#step-1-syllabus--professor-information-setup)
+  * [Step 2: Source Extraction & Video Subtitles](#step-2-source-extraction--video-subtitles)
+  * [Handling Broken Links, Paywalls & Course Material Citations](#handling-broken-links-paywalls--course-material-citations)
+  * [Step 3: The Lived-Experience Braindump](#step-3-the-lived-experience-braindump)
+  * [Step 4: The 8-Source Reference Selection System](#step-4-the-8-source-reference-selection-system)
+  * [Step 5: Plain English Writing & Orwell’s 6 Rules](#step-5-plain-english-writing--orwells-6-rules)
+* **[Part 6: Responsible & Authorized AI Integration](#part-6-responsible--authorized-ai-integration)**
+  * [Professor-Specific Policies & Ethical Guidelines](#part-6-responsible--authorized-ai-integration)
+  * [Interactive Context Interviews](#1-interactive-context-interviews-refining-your-braindump)
+  * [Automated Rubric & Professor Grading Simulation](#2-automated-rubric--professor-grading-simulation-finding-holes-before-submission)
+  * [90s Minimalist Clipart Generation](#3-presentation-asset-generation-why-90s-minimalist-ai-clipart)
+  * [Slide Simplicity & Speaker Notes Protocol](#4-slide-simplicity-dont-jam-information-onto-the-slide)
+  * [Cameo Video Recording & Presentation Confidence](#5-cameo-video-recording--presentation-confidence)
+* **[Part 7: Student Mindset, Motivation & Burnout Strategies](#part-7-student-mindset-motivation--burnout-strategies)**
+
+---
+
 ## Part 1: Degree Planning & Transfer Credit Optimization
 
 > [!IMPORTANT]
@@ -46,6 +84,14 @@ I have now completed both my **Bachelor of Business Administration (BBA)** and m
 > **Do NOT Trust Google, ChatGPT, or AI for Degree Planning**: Transfer equivalencies, General Education Curriculum (GEC) rules, and course residency requirements change frequently. Relying on outdated blog posts, random Google searches, or AI chatbots to build your degree plan will leave you with missing prerequisites, unfulfilled requirements, and unexpected gaps in your plan.
 
 Before starting your UMPI YourPace term, maximize your transfer credits to minimize cost and time spent in residency. 
+
+### The Catalog Lock-in Strategy: Why You Must Apply Today
+
+UMPI frequently updates its degree programs, General Education Curriculum (GEC) requirements, and third-party transfer equivalencies. A policy change can happen mid-year, instantly invalidating planned transfer courses or adding new requirements.
+
+* **Apply Immediately**: Do not wait until you have finished all your Sophia or Study.com courses before submitting your UMPI application. Apply for the very next available session today.
+* **The Power of Deferral**: Applying locks you into the current academic catalog and transfer rules. If you aren't ready to start classes when that session arrives, you can simply contact admissions and defer your start date to a future term without losing your catalog lock.
+* **Avoid Wasted Effort**: Locking in your catalog year prevents you from spending three to six months grinding out credits on third-party platforms only to discover that a curriculum overhaul derailed your entire degree plan. The best time to apply is right now.
 
 ### Leveraging Free Resources: Plotted Path
 * **Free Degree Planning Resource**: Visit **[plottedpath.com/free](https://www.plottedpath.com/free)** for comprehensive, up-to-date transfer equivalency charts and General Education (GEC) mapping sheets specifically for UMPI YourPace.
@@ -66,6 +112,35 @@ A common anxiety among CBE students is whether transferring 90 credits from thir
 1. **The Highest Degree Dominates**: In corporate hiring and background screening, employers evaluate your *highest level of completed education*. Once you list a Master's degree on your resume, hiring managers rarely ask for your undergraduate transcripts, let alone audit ACE transfer credits.
 2. **Immigration & Work Visa Processing**: Immigration authorities evaluate institutional accreditation (Regionally Accredited / NECHE) and degree level. A Master's degree from a public state university satisfies degree requirements for foreign work visas instantly without officers parsing third-party transfer providers from years prior.
 3. **Cost-Effective Credential Stacking**: Using Sophia/Study.com allows you to finish your bachelor's in record time for under $3,000. Transitioning straight into a UMPI master's program gives you a graduate title for minimal extra cost and time, permanently erasing any perceived stigma attached to undergraduate transfer volume.
+
+---
+
+### Protecting Your ACE Credits: Avoiding Account Suspensions on Sophia & Study.com
+
+A frequent complaint across student communities is sudden account suspensions or flagged submissions on platforms like Sophia.org and Study.com. Because these platforms have faced increasing scrutiny from universities and accreditors, they have deployed aggressive, automated detection systems to flag potential cheating. 
+
+First and foremost: **do not cheat**. Third-party ACE credits transfer into UMPI strictly as Pass/Fail (`P/F`). There are no letter grades, no GPA impact, and zero reason to risk your academic record by cutting corners. 
+
+While many online complaints come from people who were legitimately caught cheating, innocent students also get swept up by crude automated heuristics. Protect yourself by following strict operational hygiene:
+
+1. **Use a Clean Browser Profile (Zero Extensions)**:
+   * Create a dedicated, clean browser profile with **all browser extensions disabled**.
+   * Anti-cheating scripts monitor browser environments, but their detection methods are clumsy. An innocent color picker, tab manager, audio equalizer, or dark mode extension can easily trigger a false flag.
+2. **Stick to Standard Mainstream Browsers**:
+   * Use standard browsers: **Google Chrome, Chromium, Mozilla Firefox, Microsoft Edge, or Opera**.
+   * Avoid privacy-focused, shield-heavy, or obscure browsers like **Brave, Tor/Onion, or Turtle**. Their built-in ad-blocking, script-blocking shields, and fingerprinting protections can break platform telemetry and look suspicious to automated monitoring.
+3. **Maintain Strict Window Focus & Single Tabs**:
+   * Keep only one tab open while logged into an assessment.
+   * Maintain focus on the browser window the entire time. Do not alt-tab, switch to other applications, or leave the test screen idle.
+4. **No VPNs, Multiple Devices, or Screenshots**:
+   * **No VPNs or Proxies**: Sudden IP location changes trigger immediate fraud and account-sharing flags.
+   * **Single Device Only**: Never log into the platform from a phone or second computer while an exam session is active.
+   * **Never Take Screenshots**: Avoid using snippet tools, print-screen keys, or screen capture software while inside course modules.
+5. **Treat Every Module Like a Proctored Exam**:
+   * Even when an assessment does not require a webcam, act as if you are being actively proctored. Building clean, disciplined study habits on third-party platforms ensures you never carry risky habits into your actual university coursework.
+6. **Claim Credly Badges Immediately After Every Course**:
+   * Do not let finished course credits sit uncollected inside Sophia or Study.com. As soon as you complete a course, immediately accept and claim your official ACE digital badge in **Credly**.
+   * Credly is an independent third-party credential registry. Once a badge is claimed in Credly, it is permanently locked into your official transcript. If your learning platform account ever runs into an unexpected administrative freeze, false flag, or dispute, your already-claimed Credly transcript remains secure and can still be officially sent directly to UMPI.
 
 ---
 
@@ -130,7 +205,67 @@ Follow these exact steps to see which professors are teaching upcoming UMPI Your
 9. Click **Search**. Scroll through the alphabetized course list to inspect active sections and view the assigned professor for each section.
 
 > [!NOTE]
-> **Requesting Your Preferred Professor**: When emailing advising (`yourpace@maine.edu`) to add your next competency, explicitly request your preferred professor by name.
+> **Requesting Your Preferred Professor**: When emailing to add your next competency (`umpi-addcompetency@maine.edu`), explicitly request your preferred professor by name.
+
+---
+
+### 3. Active Course Limits & The "Final Sent" Acceleration Hack
+
+Understanding UMPI's concurrent course limits and the course addition mechanic prevents you from losing days of momentum:
+
+* **Active Course Concurrency Limits**:
+  * **Undergraduate (4 Course Cap)**: You begin the term registered in 2 courses. You can immediately email `umpi-addcompetency@maine.edu` on Day 1 to add 2 more courses, bringing you to your 4-course maximum.
+  * **Graduate (2 Course Cap)**: Capped strictly at 2 active courses at a time.
+
+* **The "Final Sent" Acceleration Hack (Never Wait for Final Grades)**:
+  * A common mistake students make is waiting for a professor to review and grade their Final Assessment before requesting their next class. **Never do this.**
+  * The second you submit a Final Assessment in Brightspace, you receive an automated submission confirmation email.
+  * **Forward that confirmation email directly** to `umpi-addcompetency@maine.edu` along with your request for the next course (specifying the course code and your preferred professor).
+  * UMPI treats a "Final Sent" as course completion for registration purposes. It immediately clears that course from your active cap (freeing up a slot in your 4-course undergrad or 2-course grad limit) so your next course is unlocked without waiting on professor grading turnaround.
+
+---
+
+### 4. What to Do When a Professor Doesn't Grade on Time (The 72-Hour Protocol)
+
+Bottlenecks happen. When an instructor exceeds their turnaround window, understand the exact rules and execute a clean follow-up:
+
+* **The Grading Window**: **72 hours straight** — this **includes weekends and holidays**. The 72-hour timer runs 24/7 from the exact timestamp of your submission.
+* **The Email Response Window**: **24 hours** — this **excludes weekends and holidays** (business days only).
+
+#### Step 1: Send the 72-Hour Direct Inquiry
+Once 72 hours have elapsed without a grade, email the professor directly at their university email. Keep the message short, factual, and focused on course progression:
+
+```text
+Subject: Grade Inquiry: [Course Code] - [Assignment Name] (Student ID: [Your ID])
+
+Hi [Professor Last Name],
+
+I am writing to check in on my submission for [Course Code, e.g., BUS 353] - [Assignment Name, e.g., Milestone 2], submitted on [Date & Time]. 
+
+It has now passed the 72-hour grading window, and I would like to review your feedback so I can continue making progress in the course.
+
+Thank you,
+[Your Name]
+[Student ID]
+```
+
+#### Step 2: The 24-Hour Coach Escalation
+The professor has 24 business hours (excluding weekends and holidays) to reply to your inquiry. 
+
+If that 24-hour window passes with zero response:
+1. **Re-send the exact same email thread.**
+2. **CC your assigned Academic Coach.**
+
+Your academic coach is your direct operational advocate inside UMPI. Placing them on the thread formally alerts the university that an instructor is unresponsive and stalling your degree progress, prompting internal administrative follow-up without you needing to argue.
+
+#### Step 3: Persistent Friction or Administrative Blockers? Contact the Program Director
+
+If you experience unresolved communication issues or persistent friction with a professor, coach, or advisor, do not waste time complaining on Reddit or Discord. Venting in student forums will not resolve your problem.
+
+Instead, look up the **current YourPace Program Director** on the UMPI directory and email them directly:
+* **Approachable and Responsive**: In my direct experience reaching out to program leadership, the director is very responsive, approachable, and actively works to rectify legitimate student issues.
+* **Actual Authority to Fix Problems**: Unlike online chat groups, the program director has the administrative authority to intervene, contact department chairs, resolve grading disputes, and unblock operational stalls.
+* **Keep It Professional and Factual**: Forward the relevant email chain with a concise, respectful summary of the dates, course numbers, and steps you have already taken. Factual, professional communication gets immediate results.
 
 ---
 
@@ -157,6 +292,25 @@ Below is the **essential minimum tracking schema** every UMPI YourPace student s
 | **5. Term Clock Metrics** | Days Elapsed vs. Days Remaining in current 8-week term | Seeing **"27 Days Remaining"** alongside **"4 Courses Left"** calculates required pace (e.g., 6.7 days/course). |
 | **6. Hard Cutoff Dates** | Course Add Cutoff, Milestone Cutoff, Final Submission Cutoff | Prevents missing administrative deadlines that block unlocking your next course section. |
 | **7. Professor Notes** | Grading velocity (*"Grades in 24 hrs"* vs. *"Takes 3 days"*) | Allows strategic submission sequencing—submitting to a fast grader right before a weekend eliminates downtime. |
+
+---
+
+### Academic Calendar Deadlines & Academic Standing Risks
+
+You must download and strictly adhere to the official **[2026–2027 UMPI YourPace Academic Calendar](https://www.umpi.edu/academics/wp-content/uploads/sites/19/2026/06/2026-2027-YourPace-Academic-Calendar.pdf)**. 
+
+In a self-paced program, it is easy to become complacent, but the university enforces hard, non-negotiable cutoffs:
+* **Course Add Deadline**: The final day to add an initial course load or request an additional course section from your coach.
+* **Milestone Submission Cutoff**: Typically Tuesday at 11:59 PM EST of the final week of the session. Milestones submitted after this cutoff will not be evaluated in time for you to submit your final assessment.
+* **Final Assessment Cutoff**: The final Friday of the session at 11:59 PM EST.
+
+#### The Downstream Cost of Missed Deadlines
+Missing a deadline is not just an administrative hiccup—it can severely derail your degree plan and finances:
+* **Automatic Incompletes & Failing Grades**: Missing milestone or final cutoffs leads to an administrative withdrawal (`W`) or course failure (`F`), which is permanently recorded on your academic transcript.
+* **The Non-Degree Seeking Term Trap**: If a failing grade drags your cumulative GPA below the minimum threshold (2.0 for undergraduate or 3.0 for graduate programs), you face academic probation or suspension. Recovering from suspension often requires enrolling in a **non-degree seeking term** solely to raise your GPA before you can be formally readmitted into your degree program.
+* **Compounded Time and Financial Expense**: A non-degree term means paying out-of-pocket for extra tuition, losing months of forward momentum, and facing intense academic pressure just to regain your enrolled status.
+
+Download the academic calendar on Day 1 of every term and plug every hard deadline directly into your macro pacing spreadsheet.
 
 ---
 
@@ -262,6 +416,23 @@ Maximize learning and eliminate note-taking during lectures.
 * **Zero Note-Taking While Watching**: Do not pause videos to write manual notes. Sit back and focus entirely on watching and understanding the material. The `.srt` files in your `srts/` folder serve as your complete, word-for-word transcript, allowing you to search for exact quotes, timestamps, and key terms later when drafting your assignments.
 * **Centralize Citations in `sources.txt`**: Use `sources.txt` at the root of the course folder strictly to stash master APA 7 bibliographic citations for all readings and videos.
 
+#### Handling Broken Links, Paywalls & Course Material Citations
+
+A frequent issue in Brightspace is clicking an assigned reading only to hit a 404 error, a dead link, or an aggressive paywall. Never buy articles out of pocket, and don't stall your momentum waiting for professor emails. Furthermore, **official APA 7 rules specifically advise against linking readers to paywalls or subscription gates**. If an article cannot be freely retrieved, citing a locked URL is poor academic practice. 
+
+Triage your sources using these methods:
+
+1. **The Wayback Machine (Archive.org)**:
+   * Paste the broken URL into [web.archive.org](https://web.archive.org/) and select an active snapshot. In your reference list, provide the standard author, date, and title, but swap the dead URL for the full Wayback snapshot link:
+     * *Reference*: Martic, K. (2023, January 5). *11 Reasons why business communication is critical*. Haiilo. https://web.archive.org/web/20231210175647/https://haiilo.com/blog/why-business-communication-is-crucial-for-success/
+     * *In-Text*: (Martic, 2023)
+2. **Search Title & Author on Google**:
+   * If no archive snapshot exists, search the article title in quotes with the author name. Often the host website simply reorganized its URLs or Brightspace had a typo in the link. If you find the legitimate open version, cite the original publication.
+3. **Referencing Course Material Directly (Paywall Fallback)**:
+   * Official APA 7 guidelines state you must never link readers to paywalls, and you should only cite sources you personally examined. Because UMPI articles in Brightspace do not list publication dates, always use `(n.d.)` ("no date"). If an assigned reading is paywalled and cannot be unlocked via Wayback or open search, **do not buy it and do not link to the paywall**. Cite the Brightspace course material directly:
+     * *Direct Course Reading*: `J. Kotter Accelerate. (n.d.). [Course material, OLS 650].` — *(In-Text: "J. Kotter Accelerate," n.d.)*
+     * *General Module Reference*: `University of Maine at Presque Isle. (n.d.). BUS 321: Human Resource Management. Course Modules.` — *(In-Text: University of Maine at Presque Isle, n.d.)*
+
 ---
 
 ### Step 3: The Lived-Experience Braindump
@@ -307,7 +478,16 @@ Avoid pompous academic jargon and artificial filler. Apply George Orwell's class
 
 ## Part 6: Responsible & Authorized AI Integration
 
-If your institution and course policy explicitly permit AI assistance, use AI strictly as a force multiplier for preparation, feedback, and visual assets—not as a substitute for authentic human experience.
+> [!IMPORTANT]
+> **Professor-Specific AI Policies & Disclosure Expectations**  
+> There is no single, blanket university-wide AI rule at UMPI. As officially outlined in the **[UMPI Student Guide to Ethical Generative AI Use](https://sites.google.com/maine.edu/umpi-elearning-hub/study-resources/student-guide-to-ethical-generative-ai-use?pli=1&authuser=0)**:
+> 
+> > *"UMPI encourages you to review your individual class syllabus and discuss your professors' policies if you need more clarification. Most academic citation styles, such as MLA, Chicago, and APA, have issued guidelines on how to cite AI tools in academic writing, providing various approaches based on different style guides, which is almost always required when using these tools."*
+> 
+> * **The Professor Sets the Rules, Not UMPI**: Individual professors define the acceptable boundaries for AI tools in their specific course section. One professor may encourage AI for brainstorming, outlining, or slide art, while another strictly forbids it.
+> * **Verify on Day 1**: Always read the syllabus policy first. If an instructor's policy is unclear or unmentioned, reach out to them directly before using any AI tool to confirm their exact boundaries, citation expectations, and disclosure requirements.
+
+If your course syllabus explicitly permits AI assistance, use AI strictly as a force multiplier for preparation, feedback, and visual assets—not as a substitute for authentic human experience.
 
 ```mermaid
 graph TD
