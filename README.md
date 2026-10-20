@@ -512,6 +512,15 @@ graph TD
 
 ### 1. Interactive Context Interviews (Refining Your Story with AI)
 
+> [!IMPORTANT]
+> **What This Is (and What It Is Not)**  
+> The AI is **not writing your essay**, and the story it helps you organize is **not what you submit as your assignment**. The AI is strictly helping you write down and structure *your own personal experience* into a complete, coherent narrative. You will use that narrative as your personal case study to draw examples from as you write the actual essay yourself.
+> 
+> This exercise serves three distinct purposes:
+> * It gives you concrete, relevant material to draw from so your essay has genuine substance and naturally hits length requirements.
+> * It proves your competency to the professor by demonstrating theoretical concepts in an operational context.
+> * The process of mapping your own workplace decisions to the course models forces you to actively engage with the concepts, helping you understand the material on a much deeper level.
+
 When you write out your raw workplace scenario, it will naturally be informal and full of company-specific shorthand. If permitted by your syllabus, use AI to refine that raw material before drafting:
 
 * **Cut Unneeded Details**: The AI identifies and removes irrelevant background information, technical tangents, or side-plots that do not serve the rubric.
