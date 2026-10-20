@@ -61,12 +61,12 @@ I have now completed both my **Bachelor of Business Administration (BBA)** and m
   * [Step 1: Syllabus & Professor Information Setup](#step-1-syllabus--professor-information-setup)
   * [Step 2: Source Extraction & Video Subtitles](#step-2-source-extraction--video-subtitles)
   * [Handling Broken Links, Paywalls & Course Material Citations](#handling-broken-links-paywalls--course-material-citations)
-  * [Step 3: The Lived-Experience Braindump](#step-3-the-lived-experience-braindump)
+  * [Step 3: Finding Your Story & Building the Narrative](#step-3-finding-your-story--building-the-narrative)
   * [Step 4: The 8-Source Reference Selection System](#step-4-the-8-source-reference-selection-system)
   * [Step 5: Plain English Writing & Orwell’s 6 Rules](#step-5-plain-english-writing--orwells-6-rules)
 * **[Part 6: Responsible & Authorized AI Integration](#part-6-responsible--authorized-ai-integration)**
   * [Professor-Specific Policies & Ethical Guidelines](#part-6-responsible--authorized-ai-integration)
-  * [Interactive Context Interviews](#1-interactive-context-interviews-refining-your-braindump)
+  * [Interactive Context Interviews (Refining Your Story)](#1-interactive-context-interviews-refining-your-story-with-ai)
   * [Automated Rubric & Professor Grading Simulation](#2-automated-rubric--professor-grading-simulation-finding-holes-before-submission)
   * [90s Minimalist Clipart Generation](#3-presentation-asset-generation-why-90s-minimalist-ai-clipart)
   * [Slide Simplicity & Speaker Notes Protocol](#4-slide-simplicity-dont-jam-information-onto-the-slide)
@@ -435,13 +435,23 @@ Triage your sources using these methods:
 
 ---
 
-### Step 3: The Lived-Experience Braindump
+### Step 3: Finding Your Story & Building the Narrative
 
-Academic essays backed only by textbook summaries sound generic. Ground your work in real experience.
+Writing an essay solely from an assignment prompt often produces a short, dry paper that struggles to meet length requirements. In a competency-based program, professors evaluate whether you understand how academic concepts apply to real work. Using a concrete event from your career gives you authentic material to draw from across every section, proves your competency, and naturally builds out the length of the paper.
 
-1. **Write a Raw Operational Story**: Spend 10–15 minutes braindumping a real workplace scenario, project, or operational problem you have managed.
-2. **Focus on Concrete Details**: Include specific tools, safety rules, regulatory mandates, budget approvals, or operational constraints.
-3. **No Formatting Required**: Do not worry about grammar or academic structure during the braindump—focus strictly on capturing authentic operational facts.
+#### 1. How to Select and Shape Your Story
+* **Finish the readings and lectures first**: You need the course concepts fresh in your mind before selecting a scenario.
+* **Identify the career parallel**: Think back to a specific project, failure, operational problem, or team issue from your career that directly relates to the material you just covered.
+* **Write out the raw facts**: Write out what happened in plain language. Do not worry about formatting, grammar, or academic tone—just lay out the facts, the problem, who was involved, and what happened.
+
+#### 2. How to Weave the Story into Your Essay
+Do not dump your entire story into one massive block of text at the start or end of the paper. Instead, weave it throughout the essay using a consistent three-part rhythm for each major section or rubric criterion:
+
+1. **State and Cite the Academic Concept**: Introduce the theory, model, or regulatory standard required by the prompt, citing the course materials or peer-reviewed literature.
+2. **Provide Your Workplace Example**: Immediately follow the theory with the specific part of your story that illustrates it in action.
+3. **Analyze the Outcome**: Explain what happened, tying the real-world result back to what the theory predicted or evaluating why the decision succeeded or failed.
+
+Repeating this cycle across each rubric dimension keeps your paper grounded, avoids padding with filler, and directly proves competency on every page.
 
 ---
 
@@ -500,15 +510,29 @@ graph TD
 
 ---
 
-### 1. Interactive Context Interviews (Refining Your Braindump)
+### 1. Interactive Context Interviews (Refining Your Story with AI)
 
-Instead of asking AI to write for you, use AI as an interviewer to extract missing operational context.
+When you write out your raw workplace scenario, it will naturally be informal and full of company-specific shorthand. If permitted by your syllabus, use AI to refine that raw material before drafting:
 
-* **The Setup**: Feed your raw story braindump to the AI alongside the course rubric.
-* **The Directive**: Instruct the AI to act as a senior project manager or academic interviewer and ask you 3–5 targeted questions about missing metrics, policy details, or operational steps needed to align your story with the rubric criteria.
+* **Cut Unneeded Details**: The AI identifies and removes irrelevant background information, technical tangents, or side-plots that do not serve the rubric.
+* **Align Workplace Jargon with Course Concepts**: Every industry uses its own slang. The AI helps translate your operational shorthand into the formal academic terms, theories, and models taught in the course.
+* **Spot Missing Rubric Dimensions**: The AI evaluates the narrative against the rubric criteria and asks you targeted questions about missing operational data, policies, metrics, or stakeholder impacts.
 
-```markdown
-Act as a senior project manager and academic interviewer. Review my raw operational braindump alongside this rubric. Ask me 3 to 5 targeted questions about missing metrics, safety policies, or operational constraints needed to fully satisfy the rubric criteria. Do not write the paper for me; simply ask the clarifying questions.
+#### The Context Refinement Prompt
+
+```text
+Here is the assignment prompt and rubric for my upcoming essay:
+
+[Paste Prompt & Rubric]
+
+I have a real-world scenario from my career that relates to these concepts. I am going to tell you the raw story in plain English. 
+
+Help me refine this into a strong case study for the essay by doing three things:
+1. Identify any irrelevant details or tangents that do not serve the rubric and should be cut.
+2. Flag my workplace jargon and suggest the corresponding academic terms and models from this course.
+3. Ask me clarifying questions about any missing details, data points, or policies needed to fully satisfy the rubric criteria.
+
+Do not write the paper for me; just help me shape and refine the story.
 ```
 
 ---
