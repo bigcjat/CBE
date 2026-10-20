@@ -444,14 +444,13 @@ Writing an essay solely from an assignment prompt often produces a short, dry pa
 * **Identify the career parallel**: Think back to a specific project, failure, operational problem, or team issue from your career that directly relates to the material you just covered.
 * **Write out the raw facts**: Write out what happened in plain language. Do not worry about formatting, grammar, or academic tone—just lay out the facts, the problem, who was involved, and what happened.
 
-#### 2. How to Weave the Story into Your Essay
-Do not dump your entire story into one massive block of text at the start or end of the paper. Instead, weave it throughout the essay using a consistent three-part rhythm for each major section or rubric criterion:
+#### 2. Using Your Story as a Reference Sheet While Writing
+The story you write out is not an academic essay, and you will not be copying and pasting paragraphs into your paper. A narrative story does not directly fit into an academic paper. 
 
-1. **State and Cite the Academic Concept**: Introduce the theory, model, or regulatory standard required by the prompt, citing the course materials or peer-reviewed literature.
-2. **Provide Your Workplace Example**: Immediately follow the theory with the specific part of your story that illustrates it in action.
-3. **Analyze the Outcome**: Explain what happened, tying the real-world result back to what the theory predicted or evaluating why the decision succeeded or failed.
-
-Repeating this cycle across each rubric dimension keeps your paper grounded, avoids padding with filler, and directly proves competency on every page.
+Instead, your written story serves as a complete reference sheet sitting right in front of you:
+* **You have a clear visual reference**: Having the whole story written down means you can read it, see the sequence of events clearly, and fully understand your own experience in relation to the course.
+* **You never start from zero**: When addressing each prompt topic or rubric criterion in your draft, you glance at your story notes, draw from that real-world experience, and explain it naturally in your own words.
+* **It proves competency without padding**: Tying your actual workplace experience to the course theories demonstrates genuine mastery, keeps your writing focused, and builds out the length of your paper without filler.
 
 ---
 
@@ -543,6 +542,16 @@ Help me refine this into a strong case study for the essay by doing three things
 
 Do not write the paper for me; just help me shape and refine the story.
 ```
+
+#### How to Use This Story When Writing Your Essay
+
+You are not chopping this story up or copying and pasting paragraphs into your paper. A narrative story is not an academic essay.
+
+The entire purpose of writing the story out with the AI is to get your thoughts organized on paper where you can clearly read, see, and understand your own experience in relation to the course material:
+
+* **It Eliminates Blank-Page Stalls**: Having the complete, chronological story sitting in front of you means you are never staring at a blank screen trying to remember what happened years ago.
+* **It Clarifies the Material**: Putting your experience into words and seeing it aligned with the course frameworks forces you to understand the concepts before you begin writing the essay.
+* **It Acts as Your Reference Sheet**: As you draft your essay, you keep your written story open alongside your prompt. When you introduce an academic concept or theory, you look at your notes, pull the relevant real-world example from your memory of that event, and write about it naturally in your own words.
 
 ---
 
