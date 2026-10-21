@@ -225,7 +225,26 @@ Understanding UMPI's concurrent course limits and the course addition mechanic p
 
 ---
 
-### 4. What to Do When a Professor Doesn't Grade on Time (The 72-Hour Protocol)
+### 4. Maximizing Your Active Course Capacity (The "Always Max Out" Rule)
+
+> [!TIP]
+> **THE "ALWAYS MAX OUT" RULE (Undergrad: 4 Courses | Grad: 2 Courses)**  
+> Regardless of how many courses you plan to actively write at one time, **always maintain your maximum allowed active course slots**. If you are an undergrad, stay sitting at 4 active courses; if you are in a graduate program, stay sitting at 2. 
+
+Even if you prefer focusing on only 1 or 2 courses at a time, keeping your full capacity loaded provides two strategic advantages:
+
+1. **Professor Lock-in & Capacity Protection**:
+   * Popular sections with high-velocity, responsive professors fill up fast. 
+   * If you wait until you finish a course before adding your next one, your preferred professor’s section may already be full—forcing you into a section with a slower grader or a closed course entirely. Adding courses early locks in your ideal section and instructor in advance.
+
+2. **Eliminating Weekend Downtime & Friction**:
+   * If you submit a final assessment or last milestone on a Friday afternoon, administrative additions (`umpi-addcompetency@maine.edu`) usually will not be processed until late Monday morning.
+   * If you don't have back-up active courses already loaded in Brightspace, you waste an entire weekend sitting idle with nothing to work on. 
+   * **The Solution**: Focus on 2 courses while keeping 2 secondary courses active in your queue. When you hit a weekend submission bottleneck or a 72-hour grading wait, you instantly pivot to your secondary courses without losing momentum.
+   
+---
+
+### 5. What to Do When a Professor Doesn't Grade on Time (The 72-Hour Protocol)
 
 Bottlenecks happen. When an instructor exceeds their turnaround window, understand the exact rules and execute a clean follow-up:
 
