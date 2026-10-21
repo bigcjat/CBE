@@ -48,8 +48,8 @@ I have now completed both my **Bachelor of Business Administration (BBA)** and m
   * [Leverage Community Reviews (Discord & Reddit)](#1-leverage-community-reviews-discord--reddit)
   * [How to Lookup Available Professors (MaineStreet)](#2-how-to-lookup-available-professors-mainestreet-class-search)
   * [Active Course Limits & The "Final Sent" Acceleration Hack](#3-active-course-limits--the-final-sent-acceleration-hack)
-* [Maximizing Your Active Course Capacity (The "Always Max Out" Rule)](#4-maximizing-your-active-course-capacity-the-always-max-out-rule)
-* [What to Do When a Professor Doesn't Grade on Time (72-Hour Protocol)](#5-what-to-do-when-a-professor-doesnt-grade-on-time-the-72-hour-protocol)
+  * [Maximizing Your Active Course Capacity (The "Always Max Out" Rule)](#4-maximizing-your-active-course-capacity-the-always-max-out-rule)
+  * [What to Do When a Professor Doesn't Grade on Time (72-Hour Protocol)](#5-what-to-do-when-a-professor-doesnt-grade-on-time-the-72-hour-protocol)
 * **[Part 3: Macro Level — Pacing & Progress Tracker](#part-3-macro-level--umpi-yourpace-pacing--progress-tracker-spreadsheet-system)**
   * [Master Pacing Spreadsheet Schema](#master-pacing-spreadsheet-schema)
   * [Academic Calendar Deadlines & Academic Standing Risks](#academic-calendar-deadlines--academic-standing-risks)
